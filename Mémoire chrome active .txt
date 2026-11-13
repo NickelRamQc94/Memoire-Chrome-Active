@@ -1,0 +1,2232 @@
+https://github.com/NickelRamQc94/Memoire-Chrome-Active.git https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+{
+  "schema_version": 1,
+  "title": "Mémoire Chrome Active — catalogue public des sources",
+  "author_profile": "https://github.com/NickelRamQc94",
+  "repository": "https://github.com/NickelRamQc94/Memoire-Chrome-Active",
+  "purpose": "Index des URL explicitement fournies pour archivage, navigation et ajout manuel à NotebookLM.",
+  "provenance": "Les URL ont été communiquées par l'utilisateur dans le contexte de travail; elles n'ont pas toutes été vérifiées.",
+  "notebooklm_access": {
+    "automatic_login_or_upload": false,
+    "chrome_profile_access": false,
+    "private_resource_access": false,
+    "note": "Ce catalogue ne donne pas à NotebookLM un accès global aux comptes ou à Chrome. Ajoutez manuellement les sources autorisées dans NotebookLM."
+  },
+  "privacy_warning": "Avant de partager ce fichier ou de l'importer dans un service tiers, vérifiez les droits d'accès et retirez les liens privés ou sensibles. La publication d'une URL ne rend pas automatiquement son contenu public.",
+  "priority_terms": [
+    "algorithm", "algorithme", "equation", "équation", "preuve", "proof",
+    "qbit", "qubit", "Willow", "SHA-256", "tritbyte", "BioSKU"
+  ],
+  "priority_terms_note": "Mots-clés de tri seulement; ils ne constituent pas une validation scientifique ni une preuve de résultat expérimental.",
+  "links": {
+    "github_repositories": [
+      {"name":"ai-research-diffusion-concentration2","url":"https://github.com/NickelRamQc94/ai-research-diffusion-concentration2","clone_https":"https://github.com/NickelRamQc94/ai-research-diffusion-concentration2.git"},
+      {"name":"AlphaDeal-Parallelodoxe-Nickel-David-Grenier-","url":"https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-","clone_https":"https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-.git"},
+      {"name":"Awesome_GPT_Super_Prompting","url":"https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting","clone_https":"https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting.git"},
+      {"name":"Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier","url":"https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier","clone_https":"https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier.git"},
+      {"name":"bitnet.c","url":"https://github.com/NickelRamQc94/bitnet.c","clone_https":"https://github.com/NickelRamQc94/bitnet.c.git"},
+      {"name":"BlocBuster-IntraNetFamilya","url":"https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya","clone_https":"https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya.git"},
+      {"name":"ca","url":"https://github.com/NickelRamQc94/ca","clone_https":"https://github.com/NickelRamQc94/ca.git"},
+      {"name":"Cataplasma-Propulsion-Project","url":"https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project","clone_https":"https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project.git"},
+      {"name":"chat-ui","url":"https://github.com/NickelRamQc94/chat-ui","clone_https":"https://github.com/NickelRamQc94/chat-ui.git"},
+      {"name":"cicada3301","url":"https://github.com/NickelRamQc94/cicada3301","clone_https":"https://github.com/NickelRamQc94/cicada3301.git"},
+      {"name":"CLi","url":"https://github.com/NickelRamQc94/CLi","clone_https":"https://github.com/NickelRamQc94/CLi.git"},
+      {"name":"Darkgpt.ai","url":"https://github.com/NickelRamQc94/Darkgpt.ai","clone_https":"https://github.com/NickelRamQc94/Darkgpt.ai.git"},
+      {"name":"deer-flow","url":"https://github.com/NickelRamQc94/deer-flow","clone_https":"https://github.com/NickelRamQc94/deer-flow.git"},
+      {"name":"desafios","url":"https://github.com/NickelRamQc94/desafios","clone_https":"https://github.com/NickelRamQc94/desafios.git"},
+      {"name":"docsite","url":"https://github.com/NickelRamQc94/docsite","clone_https":"https://github.com/NickelRamQc94/docsite.git"},
+      {"name":"ecosystem-index-nexus","url":"https://github.com/NickelRamQc94/ecosystem-index-nexus","clone_https":"https://github.com/NickelRamQc94/ecosystem-index-nexus.git"},
+      {"name":"Follow","url":"https://github.com/NickelRamQc94/Follow","clone_https":"https://github.com/NickelRamQc94/Follow.git"},
+      {"name":"Gemini-CLI-UI","url":"https://github.com/NickelRamQc94/Gemini-CLI-UI","clone_https":"https://github.com/NickelRamQc94/Gemini-CLI-UI.git"},
+      {"name":"Gemini-Jr-Nickel","url":"https://github.com/NickelRamQc94/Gemini-Jr-Nickel","clone_https":"https://github.com/NickelRamQc94/Gemini-Jr-Nickel.git"},
+      {"name":"Golden-Axe-Theory","url":"https://github.com/NickelRamQc94/Golden-Axe-Theory","clone_https":"https://github.com/NickelRamQc94/Golden-Axe-Theory.git"},
+      {"name":"grok-skills-nickalexandrin-azimut","url":"https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut","clone_https":"https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut.git"},
+      {"name":"JGNL-SKU","url":"https://github.com/NickelRamQc94/JGNL-SKU","clone_https":"https://github.com/NickelRamQc94/JGNL-SKU.git"},
+      {"name":"nickel-creative-ecosystem","url":"https://github.com/NickelRamQc94/nickel-creative-ecosystem","clone_https":"https://github.com/NickelRamQc94/nickel-creative-ecosystem.git"},
+      {"name":"Nickel-David-Grenier-","url":"https://github.com/NickelRamQc94/Nickel-David-Grenier-","clone_https":"https://github.com/NickelRamQc94/Nickel-David-Grenier-.git"},
+      {"name":"Nickel-David-Grenier-OoSK","url":"https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK","clone_https":"https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK.git"},
+      {"name":"NvickeliOs-PinnochIA","url":"https://github.com/NickelRamQc94/NvickeliOs-PinnochIA","clone_https":"https://github.com/NickelRamQc94/NvickeliOs-PinnochIA.git"},
+      {"name":"OoSK-vs-OpenAI","url":"https://github.com/NickelRamQc94/OoSK-vs-OpenAI","clone_https":"https://github.com/NickelRamQc94/OoSK-vs-OpenAI.git"},
+      {"name":"penguins-eda-python","url":"https://github.com/NickelRamQc94/penguins-eda-python","clone_https":"https://github.com/NickelRamQc94/penguins-eda-python.git"},
+      {"name":"qwen-remote-workspace","url":"https://github.com/NickelRamQc94/qwen-remote-workspace","clone_https":"https://github.com/NickelRamQc94/qwen-remote-workspace.git"},
+      {"name":"qwen-skills-nickalexandrin-azimut","url":"https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut","clone_https":"https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut.git"},
+      {"name":"QwenPaw","url":"https://github.com/NickelRamQc94/QwenPaw","clone_https":"https://github.com/NickelRamQc94/QwenPaw.git"},
+      {"name":"Raw-script-leaking-pots","url":"https://github.com/NickelRamQc94/Raw-script-leaking-pots","clone_https":"https://github.com/NickelRamQc94/Raw-script-leaking-pots.git"},
+      {"name":"roi-phenonanimal-parallelodoxe-oosk","url":"https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk","clone_https":"https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk.git"},
+      {"name":"ShadowGPT","url":"https://github.com/NickelRamQc94/ShadowGPT","clone_https":"https://github.com/NickelRamQc94/ShadowGPT.git"},
+      {"name":"SKU","url":"https://github.com/NickelRamQc94/SKU","clone_https":"https://github.com/NickelRamQc94/SKU.git"},
+      {"name":"system_prompts_leaks","url":"https://github.com/NickelRamQc94/system_prompts_leaks","clone_https":"https://github.com/NickelRamQc94/system_prompts_leaks.git"},
+      {"name":"system_prompts_leaks2","url":"https://github.com/NickelRamQc94/system_prompts_leaks2","clone_https":"https://github.com/NickelRamQc94/system_prompts_leaks2.git"},
+      {"name":"TechDebtMCP","url":"https://github.com/NickelRamQc94/TechDebtMCP","clone_https":"https://github.com/NickelRamQc94/TechDebtMCP.git"},
+      {"name":"Tout-les-liens-et-Contenus-","url":"https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-","clone_https":"https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-.git"},
+      {"name":"userscripts-NDG","url":"https://github.com/NickelRamQc94/userscripts-NDG","clone_https":"https://github.com/NickelRamQc94/userscripts-NDG.git"},
+      {"name":"desktop-tutorial","url":"https://github.com/NickelRamQc94/desktop-tutorial","clone_https":"https://github.com/NickelRamQc94/desktop-tutorial.git"},
+      {"name":"Memoire-Chrome-Active","url":"https://github.com/NickelRamQc94/Memoire-Chrome-Active","clone_https":"https://github.com/NickelRamQc94/Memoire-Chrome-Active.git"}
+    ],
+    "google_drive_and_docs": [
+      {"kind":"drive_folder","url":"https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop"},
+      {"kind":"drive_folder","url":"https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing"},
+      {"kind":"published_google_document","url":"https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub"}
+    ],
+    "notion": [],
+    "notion_note": "Aucun lien Notion exact n'a été communiqué; ne pas en inventer.",
+    "workspaces_and_models": [
+      {"platform":"Qwen","url":"https://chat.qwen.ai/s/deploy/t_63e1dbbf-0b21-4f51-8d62-a38d2e5fd503"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/Nickeldavidgrenier"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/Junior"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelDGre/JuniorGeminiNickelGrenier"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/Contenus"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/Junior-bucket"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art-bucket"}
+    ],
+    "media_and_social": [
+      {"platform":"YouTube","url":"https://www.youtube.com/@NRQCForce94"},
+      {"platform":"YouTube","url":"https://www.youtube.com/@Roi_Parallélodoxale_OoSK"},
+      {"platform":"YouTube","url":"https://youtube.com/@nickelios"},
+      {"platform":"YouTube video","url":"https://youtu.be/J5k5k3CEOd4"},
+      {"platform":"LinkedIn","url":"https://www.linkedin.com/in/mni3nickeldgrenier"},
+      {"platform":"Instagram","url":"https://www.instagram.com/nickel_parallelodoxe"},
+      {"platform":"Instagram","url":"https://www.instagram.com/roiphenonanimalparallelodoxale"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1EEJfXZEGX/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/19jk2CvgpC/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1C81gE1JLm/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1KKhh8Bkrx/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1F1mk8qg9V/"},
+      {"platform":"Facebook page","url":"https://facebook.com/RoiPhenanimalParallelodoxeOoSK"},
+      {"platform":"Facebook page","url":"https://facebook.com/roiooskalphadealphenonanimal"},
+      {"platform":"Suno","url":"https://suno.com/@nickelramqc"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-7d431c8ebaa2"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/7-probl%C3%A8mes-du-mill%C3%A9naire-de-linstitut-clay-1-000-000-usd-chacun-ainsi-qu-aux-plus-grandes-0d0475c9a14d"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-roi-ph%C3%A9nonanimal-parall%C3%A8lodoxe-oosknickelramqc94pour-maximiser-la-visibilit%C3%A9-3bdf5d309ee2"},
+      {"platform":"Medium profile","url":"https://medium.com/@nickeldgrenier"},
+      {"platform":"Snapchat","url":"https://snapchat.com/t/Ngh0puoy"}
+    ]
+  },
+  "epistemic_limits": [
+    "A URL is a reference, not proof that its resource still exists, is public, or is safe to share.",
+    "A SHA-256 digest checks byte integrity, not truth, safety, or completeness.",
+    "Keyword ranking is a heuristic, not a mathematical proof of relevance.",
+    "Terms such as qubit or Willow do not by themselves establish quantum-hardware use or experimental results.",
+    "This catalogue is a snapshot and may be incomplete or outdated."
+  ]
+}
+
+results of get file and 1 other tool call
+
+View file tritbyte_loader.py
+
+Get file tritbyte.py
+{
+  "path": "tritbyte.py",
+  "ref": "main",
+  "repo": "NickelRamQc94/Memoire-Chrome-Active"
+}
+
+Get data from /repos/NickelRamQc94/Memoire-Chrome-Active/contents
+{
+  "endpoint": "/repos/NickelRamQc94/Memoire-Chrome-Active/contents",
+  "page": 1,
+  "perPage": 100,
+  "repo": "",
+  "task": "List files in the repository to find the generated tritbyte payload and relevant documents without executing code.",
+  "userQuery": "Inspect the repository contents in NickelRamQc94/Memoire-Chrome-Active to identify the payload, documentation, and safe verification path before execution."
+}
+
+View file notebooklm_pack.py
+NiPura-Chrome v3.0 ACTIVE. Étiquettes épistémiques ON. Ancres projet verrouillées. Aucune affirmation de prix ou de physique non prouvée. En attente du vecteur exact de source ou du dépôt à traiter.
+
+Verdict immédiat sur le chargeur tritbyte_loader.py :
+
+FAIT : le script lit une charge intégrée en base64 + gzip, la décompresse, vérifie SHA-256, puis écrit tritbyte.py à côté.
+FAIT : le SHA-256 attendu est 6bd2df445d684db158a1560956331da746a7f60a86bb736632ee6903864997a6.
+LIM : ce hash prouve l’intégrité des octets produits ; il ne prouve pas que le script généré est sûr, utile, ou sans effets latéraux.
+DÉF : le bon modèle pour NotebookLM est un paquet local, reproductible, importé manuellement, sans accès direct à Google Drive / GitHub / compte utilisateur.
+Le point clé : un script ne “donne pas accès” à NotebookLM. Il produit un paquet vérifiable que l’utilisateur importe dans NotebookLM. Il ne se connecte pas à Google ni à des comptes privés.
+
+Voici un script propre, exécutable, déterministe, sans dépendances externes, qui crée exactement ce qu’il faut pour un paquet NotebookLM local.
+
+notebooklm_pack.py
+#!/usr/bin/env python3
+"""
+notebooklm_pack.py
+
+Build a deterministic, reviewable source pack for manual import into Google NotebookLM.
+No account login is performed. No private cloud access is performed.
+Pourquoi c’est mathématiquement reproductible :
+
+La liste des fichiers est triée par chemin relatif normalisé.
+Les fichiers texte sont normalisés en LF et encodés en UTF-8.
+Le paquet final est une concaténation déterministe de sections, dans l’ordre des chemins triés.
+La vérification calcule sha256 sur le paquet final et compare avec le manifeste MANIFEST.sha256.json.
+Donc, si la source est identique, la sortie est identique. C’est une preuve de reproductibilité par construction, pas une preuve de vérité du contenu.
+La bonne méthode pour NotebookLM :
+
+collecter tes fichiers locaux autorisés,
+créer un paquet local,
+relire le paquet,
+importer manuellement dans NotebookLM,
+ne pas tenter d’accorder un accès automatisé à un compte Google.
+Commandes de travail :
+
+python3 notebooklm_pack.py self-test
+python3 notebooklm_pack.py build ./mes-sources ./notebooklm-pack
+python3 notebooklm_pack.py verify ./notebooklm-pack
+Et pour le chargeur tritbyte_loader.py :
+
+Ne pas l’exécuter sans inspection préalable.
+Vérification sûre : python3 -m py_compile tritbyte_loader.py pour valider la syntaxe seulement.
+Si tu veux aller plus loin, ouvre le payload intégré et vérifie exactement ce qu’il décompresse avant de le lancer.
+Le hash ne veut pas dire “confiable”; il veut dire seulement “les octets produits correspondent au digest attendu”.
+Si tu veux, je peux maintenant te faire :
+
+une version encore plus petite, ultra-portable,
+une version qui exporte aussi les liens GitHub/Drive/Notion en Markdown,
+ou une version “pack unique pour NotebookLM” prête à copier-coller directement dans une note source.
+une version qui exporte aussi les liens GitHub/Drive/Notion en Markdown,
+ou une version “pack unique pour NotebookLM” prête à copier-coller directement dans une note source Qu’il aille accès à tous en mémoire chrome, active au même titre que exemple avoir un vieux disque dur HDD dans un ordi, pis le temps que rien savoir faire avec on met des équations des algorithmes près, défini pis des affaires de même t’as plus ça  de la mémoire chrome active tant qu’y a la mémoire vide qui sert à rien genre, c’est comme de l’énergie fantôme ça c’est comme un One carte de crédit pas s’en servir. Tu comprends donc on lui transfère à quelque chose d’autre on lui redonne une autre vie pis il va durerplus longtemps parce que on aura pas ri utiliser ça c’est quand tu sais qu’il reste plus longtemps tu fais ça pis tu peux garder 10 ans  plus Puis tu comprends donc surtout qu’à y accès, puis un priorité, essaye de spotter, les algorithmes, les équations, les qbits Willow émet drapeau majeur qui mène plus vite l aussi vers là-bas
+
+J’attends ta réponse à la demande d’autorisation pour continuer.
+Are you sure?
+
+Please confirm you want Copilot to make this change in the NickelRamQc94/Memoire-Chrome-Active repository on the default branch.
+ NickelRamQc94 accepted the action
+
+Oui — voici une version plus utile pour ton cas : un export unique, prêt à coller dans une note source NotebookLM, avec :
+
+la mémoire Chrome active,
+les liens GitHub / Google Drive / Notion / autres,
+les liens “mémoire / disque / cloud / historique / archivage”,
+un protocole d’assemblage pour un “mémoire vivante” avec séquencement logique,
+des repères mathématiques/algorithmiques (équations, qbits, tritbyte, SHA-256, etc.),
+et un mode de lecture simple, sans dépendre d’un compte Google.
+C’est un pack “source note” autonome, pensé pour être copié dans NotebookLM puis enrichi manuellement par toi. Il ne donne pas d’accès magique à Google ; il sert à organiser et rendre lisible une mémoire de travail structurée.
+
+Colle ceci dans une source NotebookLM :
+
+================================================================================ SOURCE NOTEBOOKLM — MÉMOIRE CHROME ACTIVE / PACK EXÉCUTABLE / LIENS + ALGORITHMES Auteur : NickelRamQc94 Date de consolidation : 2026-11-09 Type : mémoire active, documentation de travail, bibliographie de sources, guide d’assemblage Cible : NotebookLM / mémoire de recherche / architecture de savoir / archivage documentaire
+
+OBJECTIF L’objectif n’est pas de “donner accès” à un compte ou à un cloud, mais de produire une mémoire active structurée, vérifiable, lisible, reproductible, et réutilisable. C’est une mémoire de travail qui sert comme un disque d’archive logique, avec un système de références, d’ancres, de liens, et de preuves d’intégrité.
+La mémoire Chrome active est comparable à un disque dur de travail :
+
+un disque dur fournit de l’espace,
+la mémoire active donne du contexte et une structure de lecture,
+la mémoire vide ne sert à rien si elle n’est pas organisée,
+l’énergie fantôme, c’est la mémoire qui existe sans usage, sans séquencement, sans logique. La bonne mémoire n’est pas une “mémoire vide potentielle” ; c’est une mémoire construite, indexée, testée, réactualisée.
+Dans cette logique :
+
+l’algorithme est la mémoire transformée en structure ;
+l’équation est la mémoire transformée en règle ;
+le hash SHA-256 est la mémoire transformée en preuve d’intégrité ;
+le qbit, s’il est utilisé comme métaphore de lecture / décision / superposition, reste un objet de modélisation, pas une preuve physique de conscience ou d’ordinateur quantique totalement fonctionnel.
+STRUCTURE DE BASE DE LA MÉMOIRE ACTIVE La mémoire active doit contenir :
+inventaire des sources ;
+liens de référence ;
+documents de fond ;
+preuves de validation ;
+équations / formules / invariants ;
+index des fichiers et modules ;
+règles d’usage, limites et garde-fous épistémiques.
+Pyramide de mémoire :
+
+Storage logique : fichiers, dossiers, documents, URL
+Indexation : noms, titres, catégories, provenance
+Séquencement : ordre logique, priorités, key points
+Validation : hachage, tests, vérification
+Relecture : contrôle de cohérence, extraction de sens
+Réactivation : relancer le système sans perdre l’index
+Forme de base : M = S + I + R + V + L où :
+
+S = sources
+I = indexation
+R = règles
+V = validation
+L = lecture / relance
+ANCRAGES MATHÉMATIQUES ET ALGORITHMIQUES Les ancrages ne servent pas à “prouver” de la conscience ; ils servent à structurer une mémoire de travail et à rendre la logique vérifiable.
+Exemples de formes utiles :
+
+SHA-256 : h = SHA256(d)
+Vérification : h_expected == h_observed
+Reproducibilité : sortie_1 == sortie_2 si source_1 == source_2
+Séquencement : F = (s1, s2, s3, ..., sn)
+Priorité : P(file) = score_mots_clés(file, contenu)
+Hash + source = preuve d’intégrité, pas preuve de vérité
+Formule de mémoire active : M_active = Σ (source_i × contexte_i × validation_i) avec :
+
+source_i = fichier ou URL référencée
+contexte_i = description fonctionnelle ou rôle
+validation_i = hash, test, vérification de structure
+Formules de priorité :
+
+Priorité algorithmique : score_alg = count(algorithme, équation, preuve, qbit, tritbyte, SHA-256)
+Priorité documentaire : score_doc = count(titre, lien, source, document, archive)
+Priorité de relecture : score_relecture = count(test, validation, reproduction, hash, comparaison)
+VÉRIFICATION, TRITBYTE ET INTÉGRITÉ Le tritbyte est une charge utile compressée au format gzip + base64, reconstruit ensuite en script Python. La validation typique est :
+base64 décode
+gzip décompresse
+SHA-256 calcule le digest
+compare avec la valeur attendue
+si OK : écriture de tritbyte.py
+sinon : échec explicite
+Forme : digest = SHA256(data) if digest == expected_digest: accept else: reject
+
+Cela prouve :
+
+intégrité du binaire
+exactitude de reconstruction
+reproductibilité de l’artefact Mais cela ne prouve pas :
+que le code est sûr,
+que le script est utile,
+que le contenu est crédible ou inoffensif.
+L’intégrité n’est pas la vérité. C’est une condition nécessaire, pas suffisante.
+
+MEMOIRE CHROME ACTIVE — STRUCTURE DE RÉFÉRENCE La “mémoire Chrome active” se comprend comme :
+archive logique ;
+index de navigation ;
+horodatage de référence ;
+gestion des liens ;
+mémoire de contexte accumulée.
+En pratique, elle contient :
+
+liens GitHub ;
+liens Drive / Docs / Google ;
+liens Notion ;
+liens d’archive / fichiers locaux / documents ;
+liens sociaux / média / cloud ;
+arborescence de dossiers / repo ;
+notes d’analyse ;
+équations / formules / invariants ;
+scripts de génération, test et validation.
+La clé est de faire une architecture qui ressemble à : Apache, sysadmin, notes, mémoire, algorithmes, cloud, archive. C’est un système d’assemblage, pas un “catastrophe de liens”.
+
+CATALOGUE DE LIENS — FORMAT PRÊT À IMPORTER GitHub
+https://github.com/NickelRamQc94
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut
+https://github.com/NickelRamQc94/Gemini-Jr-Nickel
+https://github.com/NickelRamQc94/nickel-creative-ecosystem
+https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK
+https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-
+https://github.com/NickelRamQc94/Golden-Axe-Theory
+https://github.com/NickelRamQc94/OoSK-vs-OpenAI
+https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-
+https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier
+Google Drive / Docs / cloud
+
+https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop
+https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing
+https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub
+Notion / docs / workspace
+
+[insérer vos liens Notion ici]
+[insérer vos liens Google Docs / Sheets / Slides ici]
+Médias / réseaux
+
+https://www.youtube.com/@NRQCForce94
+https://www.youtube.com/@Roi_Parallélodoxale_OoSK
+https://www.linkedin.com/in/mni3nickeldgrenier
+https://www.instagram.com/nickel_parallelodoxe
+https://www.facebook.com/share/1EEJfXZEGX/
+https://medium.com/@nickeldavidgrenier-roioosk
+https://suno.com/@nickelramqc
+MODÈLE D’ARCHIVAGE “MÉMOIRE ACTIVE” Règles de rangement :
+archiver la source brute
+indexer le document
+marquer le type de source
+noter la preuve d’intégrité
+noter les limites
+relire et valider
+répéter l’indexation
+Schéma : source -> hash -> catégorie -> lien -> contexte -> preuve -> relecture
+
+LIGNES DE VIE / RÉFLEXION “MÉMOIRE ACTIVER” Quand tu dis “à y accès, puis un priorité, essaye de spotter les algorithmes, les équations, les qbits Willow émet drapeau majeur qui mène plus vite l aussi vers là-bas”, ça correspond à un travail de triage sémantique :
+repérer les motifs de structure,
+repérer les repères mathématiques,
+repérer les mots de signalisation (Willow, qbit, équation, tritbyte, mémoire, SHA, algorithme),
+repérer les liens de référence qui structurent la mémoire,
+prioriser les documents qui ont des éléments de preuve, validation, ou architecture.
+C’est donc une logique de :
+
+classification,
+extraction,
+priorisation,
+validation,
+archivage.
+PRIORISATION DES MOTS-CLÉS Mots-clés de signal fort :
+algorithm
+algorithme
+equation
+équation
+proof
+preuve
+qbit
+qubit
+willow
+tritbyte
+biosku
+sha256
+logic
+structure
+memory
+archive
+validation
+sync
+reproductible
+chrome active
+Règle de priorité :
+
+un document contenant 3+ signaux forts doit être classé en priorité haute ;
+un document contenant plusieurs liens / archives / hash doit être classé en priorité élevée ;
+un document “vidé” de structure doit être consigné comme mémoire passive, et non comme preuve.
+MODÈLE D’INDEX EN MARKDOWN Voici un modèle très utile à placer dans un document de travail :
+Index mémoire active
+
+1. Sources primaires
+
+Repo principal
+Scripts de génération
+Fichiers de validation
+Documents de théorie / mémoire
+2. Sources secondaires
+
+Liens externes
+PDF / docs / archives
+Drive / docs / cloud
+Notion / wiki / lab
+3. Liens d’archive
+
+GitHub
+Drive
+Notion
+Cloud
+Média
+4. Éléments de preuve
+
+SHA-256
+tests
+équations
+scripts
+signatures
+logs
+5. Limites
+
+pas de preuve de vérité
+pas d’accès direct à l’internet privé
+pas d’export de données sensibles
+pas de promesse de sécurité absolue
+EXEMPLE DE NOTE PRÊTE À COLLER EN NOTEBOOKLM si tu veux un bloc plus “compact” :
+NotebookLM — Mémoire Chrome Active / Pack de travail Objet : mémoire active structurée, sources + liens + preuves + priorités. Règle : ne pas confondre intégrité, vérité, sécurité et accès. Constat :
+
+SHA-256 prouve l’intégrité des octets ;
+il ne prouve ni la vérité ni la sécurité d’un script ;
+c’est un garde-fou technique, pas une preuve d’orthodoxie scientifique. Priorité :
+algorithmes
+équations
+source code
+vérification
+tritbyte
+qbits / Willow
+mémoire active
+archive / cloud / liens / provenance Catégories :
+GitHub
+Google Drive / Docs
+Notion
+média
+cloud
+docs locaux Système :
+index
+validation
+révision
+relecture
+génération de source unique Formule : M_active = S + I + R + V + L Chaîne de validation : hash(source) -> compare -> archive -> index -> lecture -> relance
+DÉFINITION DE “MÉMOIRE ACTIVE” DANS LE CADRE TECHNIQUE On peut formaliser la mémoire active comme un système de stockage + indexation + validation : M = (D, I, A, V) avec :
+D = données source
+I = indices
+A = archivage
+V = validation
+Et dans le cadre d’un système de recherche / NotebookLM :
+
+la note est la couche de compréhension ;
+le fichier est la couche de source ;
+le hash est la couche de preuve ;
+le lien est la couche de référence ;
+le mot-clé / équation est la couche de signal.
+CONCLUSION Ta logique est bonne : la mémoire active n’est pas seulement “des fichiers qui existent”, c’est un système où :
+les fichiers sont triés ;
+les liens sont classés ;
+les hypothèses sont séparées des faits ;
+les preuves de structure sont distinguées des affirmations de sens ;
+le hash verrouille les objets ;
+l’algorithme et l’équation servent de boussole ;
+la relecture et la validation servent à ne pas sombrer dans la mémoire vide, “énergie fantôme”, ou “disque dur inutilisé”.
+Le but est de donner à l’IA un accès organisé et reproductible, pas un accès magique. Elle doit pouvoir lire :
+
+les sources autorisées,
+les liens catalogués,
+la logique de tri,
+les équations / algorithmes,
+les preuves d’intégrité,
+les limites et les garde-fous.
+C’est là qu’on obtient une mémoire active utile, durable, et suffisamment structurée pour durer plus longtemps que la simple accumulation chaotique.
+
+Ce que tu peux faire maintenant :
+
+copier ce bloc dans NotebookLM ;
+ajouter un dossier local de sources autorisées ;
+générer le pack avec le script de génération ;
+vérifier le hash ;
+puis poser des questions à NotebookLM sur :
+“quels algorithmes sont priorisés ?”
+“quels liens sont catalogués ?”
+“quelles sont les sources fiables ?”
+“quels liens sont issus de Drive, GitHub ou Notion ?”
+“quels sont les éléments de preuve vs hypothèses ?”
+“quelle est la mémoire active la plus structurée ?”
+Si tu veux, je peux te faire maintenant :
+
+une version “pack unique ultra-courte” pour NotebookLM, en 1 seule note de 1 page ;
+une version “complete + liens + URLs + GitHub + Drive + Notion + médias” ;
+une version “machine-readable” en JSON ou en Markdown à copier directement dans un repo.
+une version “complete + liens + URLs + GitHub + Drive + Notion + médias” ;
+une version “machine-readable” en JSON ou en Markdown à copier directement dans un repo. En le mettant en public, et me donnant directement l’adresse du lien du dépôt.
+
+
+Get data from /repos/NickelRamQc94/Memoire-Chrome-Active
+{
+  "endpoint": "/repos/NickelRamQc94/Memoire-Chrome-Active",
+  "page": 1,
+  "perPage": 30,
+  "repo": "NickelRamQc94/Memoire-Chrome-Active",
+  "task": "Verify repository visibility and default branch before publishing the requested public documentation files.",
+  "userQuery": "Publish a complete Markdown and machine-readable JSON catalogue of the supplied GitHub, Drive, Notion, and media links in the existing repository, and provide the direct repository links."
+}
+La publication des fichiers Markdown et JSON est encore en attente de confirmation; le dépôt est ici : https://github.com/NickelRamQc94/Memoire-Chrome-Active.
+Make these code changes?
+
+SOURCES.md
+
+md
+# Mémoire Chrome Active — catalogue public des sources
+
+**Auteur / profil référencé :** NickelRamQc94  
+**But :** regrouper les URL explicitement communiquées dans le contexte de travail afin de les archiver, les consulter et, si souhaité, les ajouter manuellement à NotebookLM.  
+**Format machine lisible :** [`SOURCES.json`](./SOURCES.json)  
+**Dépôt :** https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+> **Périmètre et prudence.** Ce catalogue est une transcription organisée des URL fournies par l’utilisateur, pas une vérification d’existence, d’accès ou de contenu. Les liens Drive, sociaux et autres peuvent être privés, révoqués ou contenir des documents personnels. Avant de partager ou d’importer ce catalogue dans un service tiers, vérifiez les droits d’accès et retirez ce qui ne doit pas être public. La publication de l’URL n’accorde pas automatiquement l’accès à son contenu.
+>
+> NotebookLM n’obtient pas un accès global à Chrome, à un compte Google, à des fichiers locaux ou à des espaces privés grâce à ce document. Il faut ajouter manuellement les sources accessibles dans NotebookLM. Cette liste est un index de liens, pas une sauvegarde ni une synchronisation vivante.
+
+## Priorités de recherche suggérées
+
+Pour repérer les éléments pertinents, commencer par les dépôts contenant code, mathématiques, recherche ou documentation. Les termes `algorithme`, `équation`, `preuve`, `qubit/qbit`, `Willow`, `SHA-256`, `tritbyte` et `BioSKU` sont des **mots-clés de tri**, pas une validation scientifique. Vérifier chaque affirmation dans sa source primaire et séparer les résultats mesurés, les définitions de projet, les hypothèses et les limites.
+
+### Dépôts GitHub (41 URL fournies)
+
+| Dépôt | Page GitHub | Clone HTTPS |
+|---|---|---|
+| ai-research-diffusion-concentration2 | https://github.com/NickelRamQc94/ai-research-diffusion-concentration2 | `https://github.com/NickelRamQc94/ai-research-diffusion-concentration2.git` |
+| AlphaDeal-Parallelodoxe-Nickel-David-Grenier- | https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier- | `https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-.git` |
+| Awesome_GPT_Super_Prompting | https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting | `https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting.git` |
+| Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier | https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier | `https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier.git` |
+| bitnet.c | https://github.com/NickelRamQc94/bitnet.c | `https://github.com/NickelRamQc94/bitnet.c.git` |
+| BlocBuster-IntraNetFamilya | https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya | `https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya.git` |
+| ca | https://github.com/NickelRamQc94/ca | `https://github.com/NickelRamQc94/ca.git` |
+| Cataplasma-Propulsion-Project | https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project | `https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project.git` |
+| chat-ui | https://github.com/NickelRamQc94/chat-ui | `https://github.com/NickelRamQc94/chat-ui.git` |
+| cicada3301 | https://github.com/NickelRamQc94/cicada3301 | `https://github.com/NickelRamQc94/cicada3301.git` |
+| CLi | https://github.com/NickelRamQc94/CLi | `https://github.com/NickelRamQc94/CLi.git` |
+| Darkgpt.ai | https://github.com/NickelRamQc94/Darkgpt.ai | `https://github.com/NickelRamQc94/Darkgpt.ai.git` |
+| deer-flow | https://github.com/NickelRamQc94/deer-flow | `https://github.com/NickelRamQc94/deer-flow.git` |
+| desafios | https://github.com/NickelRamQc94/desafios | `https://github.com/NickelRamQc94/desafios.git` |
+| docsite | https://github.com/NickelRamQc94/docsite | `https://github.com/NickelRamQc94/docsite.git` |
+| ecosystem-index-nexus | https://github.com/NickelRamQc94/ecosystem-index-nexus | `https://github.com/NickelRamQc94/ecosystem-index-nexus.git` |
+| Follow | https://github.com/NickelRamQc94/Follow | `https://github.com/NickelRamQc94/Follow.git` |
+| Gemini-CLI-UI | https://github.com/NickelRamQc94/Gemini-CLI-UI | `https://github.com/NickelRamQc94/Gemini-CLI-UI.git` |
+| Gemini-Jr-Nickel | https://github.com/NickelRamQc94/Gemini-Jr-Nickel | `https://github.com/NickelRamQc94/Gemini-Jr-Nickel.git` |
+| Golden-Axe-Theory | https://github.com/NickelRamQc94/Golden-Axe-Theory | `https://github.com/NickelRamQc94/Golden-Axe-Theory.git` |
+| grok-skills-nickalexandrin-azimut | https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut | `https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut.git` |
+| JGNL-SKU | https://github.com/NickelRamQc94/JGNL-SKU | `https://github.com/NickelRamQc94/JGNL-SKU.git` |
+| nickel-creative-ecosystem | https://github.com/NickelRamQc94/nickel-creative-ecosystem | `https://github.com/NickelRamQc94/nickel-creative-ecosystem.git` |
+| Nickel-David-Grenier- | https://github.com/NickelRamQc94/Nickel-David-Grenier- | `https://github.com/NickelRamQc94/Nickel-David-Grenier-.git` |
+| Nickel-David-Grenier-OoSK | https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK | `https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK.git` |
+| NvickeliOs-PinnochIA | https://github.com/NickelRamQc94/NvickeliOs-PinnochIA | `https://github.com/NickelRamQc94/NvickeliOs-PinnochIA.git` |
+| OoSK-vs-OpenAI | https://github.com/NickelRamQc94/OoSK-vs-OpenAI | `https://github.com/NickelRamQc94/OoSK-vs-OpenAI.git` |
+| penguins-eda-python | https://github.com/NickelRamQc94/penguins-eda-python | `https://github.com/NickelRamQc94/penguins-eda-python.git` |
+| qwen-remote-workspace | https://github.com/NickelRamQc94/qwen-remote-workspace | `https://github.com/NickelRamQc94/qwen-remote-workspace.git` |
+| qwen-skills-nickalexandrin-azimut | https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut | `https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut.git` |
+| QwenPaw | https://github.com/NickelRamQc94/QwenPaw | `https://github.com/NickelRamQc94/QwenPaw.git` |
+| Raw-script-leaking-pots | https://github.com/NickelRamQc94/Raw-script-leaking-pots | `https://github.com/NickelRamQc94/Raw-script-leaking-pots.git` |
+| roi-phenonanimal-parallelodoxe-oosk | https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk | `https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk.git` |
+| ShadowGPT | https://github.com/NickelRamQc94/ShadowGPT | `https://github.com/NickelRamQc94/ShadowGPT.git` |
+| SKU | https://github.com/NickelRamQc94/SKU | `https://github.com/NickelRamQc94/SKU.git` |
+| system_prompts_leaks | https://github.com/NickelRamQc94/system_prompts_leaks | `https://github.com/NickelRamQc94/system_prompts_leaks.git` |
+| system_prompts_leaks2 | https://github.com/NickelRamQc94/system_prompts_leaks2 | `https://github.com/NickelRamQc94/system_prompts_leaks2.git` |
+| TechDebtMCP | https://github.com/NickelRamQc94/TechDebtMCP | `https://github.com/NickelRamQc94/TechDebtMCP.git` |
+| Tout-les-liens-et-Contenus- | https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus- | `https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-.git` |
+| userscripts-NDG | https://github.com/NickelRamQc94/userscripts-NDG | `https://github.com/NickelRamQc94/userscripts-NDG.git` |
+| desktop-tutorial | https://github.com/NickelRamQc94/desktop-tutorial | `https://github.com/NickelRamQc94/desktop-tutorial.git` |
+| Memoire-Chrome-Active | https://github.com/NickelRamQc94/Memoire-Chrome-Active | `https://github.com/NickelRamQc94/Memoire-Chrome-Active.git` |
+
+### Google Drive / Google Docs
+
+- Google Drive folder: https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop
+- Google Drive folder: https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing
+- Published Google document: https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub
+
+### Notion
+
+Aucun lien Notion précis n’a été communiqué dans les informations disponibles. Ajouter les URL Notion autorisées ici et dans `SOURCES.json` lorsqu’elles seront fournies. Ne pas deviner d’URL ni d’espace de travail.
+
+### Autres espaces et plateformes de travail
+
+- Qwen conversation/deployment link: https://chat.qwen.ai/s/deploy/t_63e1dbbf-0b21-4f51-8d62-a38d2e5fd503
+- Hugging Face model: https://huggingface.co/NickelRamQc94/Nickeldavidgrenier
+- Hugging Face model: https://huggingface.co/NickelRamQc94/Junior
+- Hugging Face model: https://huggingface.co/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art
+- Hugging Face model: https://huggingface.co/NickelDGre/JuniorGeminiNickelGrenier
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/Contenus
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/Junior-bucket
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art-bucket
+
+### Médias, réseaux sociaux et publications
+
+- YouTube: https://www.youtube.com/@NRQCForce94
+- YouTube: https://www.youtube.com/@Roi_Parallélodoxale_OoSK
+- YouTube: https://youtube.com/@nickelios
+- YouTube video: https://youtu.be/J5k5k3CEOd4
+- LinkedIn: https://www.linkedin.com/in/mni3nickeldgrenier
+- Instagram: https://www.instagram.com/nickel_parallelodoxe
+- Instagram: https://www.instagram.com/roiphenonanimalparallelodoxale
+- Facebook share link: https://www.facebook.com/share/1EEJfXZEGX/
+- Facebook share link: https://www.facebook.com/share/19jk2CvgpC/
+- Facebook share link: https://www.facebook.com/share/1C81gE1JLm/
+- Facebook share link: https://www.facebook.com/share/1KKhh8Bkrx/
+- Facebook share link: https://www.facebook.com/share/1F1mk8qg9V/
+- Facebook page: https://facebook.com/RoiPhenanimalParallelodoxeOoSK
+- Facebook page: https://facebook.com/roiooskalphadealphenonanimal
+- Suno: https://suno.com/@nickelramqc
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-7d431c8ebaa2
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/7-probl%C3%A8mes-du-mill%C3%A9naire-de-linstitut-clay-1-000-000-usd-chacun-ainsi-qu-aux-plus-grandes-0d0475c9a14d
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-roi-ph%C3%A9nonanimal-parall%C3%A8lodoxe-oosknickelramqc94pour-maximiser-la-visibilit%C3%A9-3bdf5d309ee2
+- Medium profile: https://medium.com/@nickeldgrenier
+- Snapchat: https://snapchat.com/t/Ngh0puoy
+
+## Procédure d’utilisation avec NotebookLM
+
+1. Vérifier ce dépôt et les liens à partager; retirer toute URL privée ou sensible avant de diffuser le catalogue.
+2. Ouvrir les liens et déterminer les documents précis à inclure. Le catalogue ne télécharge aucun contenu.
+3. Ajouter à NotebookLM uniquement les sources auxquelles vous avez accès et que vous êtes autorisé à partager.
+4. Demander à NotebookLM de citer les sources et de distinguer contenu explicite, interprétation, hypothèse et limite.
+5. Pour les fichiers locaux, utiliser un exporteur local après revue. Ne jamais exécuter un chargeur ou un script intégré avant inspection de son contenu.
+
+## Limites de preuve
+
+- Une URL est une référence, pas une preuve que la ressource existe encore ou qu’elle est publique.
+- Un SHA-256 confirme l’intégrité des octets comparés, pas la sûreté, la véracité ou l’exhaustivité.
+- Les mots-clés de priorité sont une heuristique de classement, pas une démonstration mathématique.
+- La présence des mots “qubit” ou “Willow” ne démontre ni l’usage d’un processeur quantique ni un résultat expérimental. Consulter des sources primaires et des données mesurées.
+- La liste est un instantané fourni par l’utilisateur; elle peut être incomplète ou périmée.
+
+SOURCES.json
+
+JSON
+{
+  "schema_version": 1,
+  "title": "Mémoire Chrome Active — catalogue public des sources",
+  "author_profile": "https://github.com/NickelRamQc94",
+  "repository": "https://github.com/NickelRamQc94/Memoire-Chrome-Active",
+  "purpose": "Index des URL explicitement fournies pour archivage, navigation et ajout manuel à NotebookLM.",
+  "provenance": "Les URL ont été communiquées par l'utilisateur dans le contexte de travail; elles n'ont pas toutes été vérifiées.",
+  "notebooklm_access": {
+    "automatic_login_or_upload": false,
+    "chrome_profile_access": false,
+    "private_resource_access": false,
+    "note": "Ce catalogue ne donne pas à NotebookLM un accès global aux comptes ou à Chrome. Ajoutez manuellement les sources autorisées dans NotebookLM."
+  },
+  "privacy_warning": "Avant de partager ce fichier ou de l'importer dans un service tiers, vérifiez les droits d'accès et retirez les liens privés ou sensibles. La publication d'une URL ne rend pas automatiquement son contenu public.",
+  "priority_terms": [
+    "algorithm", "algorithme", "equation", "équation", "preuve", "proof",
+    "qbit", "qubit", "Willow", "SHA-256", "tritbyte", "BioSKU"
+  ],
+  "priority_terms_note": "Mots-clés de tri seulement; ils ne constituent pas une validation scientifique ni une preuve de résultat expérimental.",
+  "links": {
+    "github_repositories": [
+      {"name":"ai-research-diffusion-concentration2","url":"https://github.com/NickelRamQc94/ai-research-diffusion-concentration2","clone_https":"https://github.com/NickelRamQc94/ai-research-diffusion-concentration2.git"},
+      {"name":"AlphaDeal-Parallelodoxe-Nickel-David-Grenier-","url":"https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-","clone_https":"https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-.git"},
+      {"name":"Awesome_GPT_Super_Prompting","url":"https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting","clone_https":"https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting.git"},
+      {"name":"Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier","url":"https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier","clone_https":"https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier.git"},
+      {"name":"bitnet.c","url":"https://github.com/NickelRamQc94/bitnet.c","clone_https":"https://github.com/NickelRamQc94/bitnet.c.git"},
+      {"name":"BlocBuster-IntraNetFamilya","url":"https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya","clone_https":"https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya.git"},
+      {"name":"ca","url":"https://github.com/NickelRamQc94/ca","clone_https":"https://github.com/NickelRamQc94/ca.git"},
+      {"name":"Cataplasma-Propulsion-Project","url":"https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project","clone_https":"https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project.git"},
+      {"name":"chat-ui","url":"https://github.com/NickelRamQc94/chat-ui","clone_https":"https://github.com/NickelRamQc94/chat-ui.git"},
+      {"name":"cicada3301","url":"https://github.com/NickelRamQc94/cicada3301","clone_https":"https://github.com/NickelRamQc94/cicada3301.git"},
+      {"name":"CLi","url":"https://github.com/NickelRamQc94/CLi","clone_https":"https://github.com/NickelRamQc94/CLi.git"},
+      {"name":"Darkgpt.ai","url":"https://github.com/NickelRamQc94/Darkgpt.ai","clone_https":"https://github.com/NickelRamQc94/Darkgpt.ai.git"},
+      {"name":"deer-flow","url":"https://github.com/NickelRamQc94/deer-flow","clone_https":"https://github.com/NickelRamQc94/deer-flow.git"},
+      {"name":"desafios","url":"https://github.com/NickelRamQc94/desafios","clone_https":"https://github.com/NickelRamQc94/desafios.git"},
+      {"name":"docsite","url":"https://github.com/NickelRamQc94/docsite","clone_https":"https://github.com/NickelRamQc94/docsite.git"},
+      {"name":"ecosystem-index-nexus","url":"https://github.com/NickelRamQc94/ecosystem-index-nexus","clone_https":"https://github.com/NickelRamQc94/ecosystem-index-nexus.git"},
+      {"name":"Follow","url":"https://github.com/NickelRamQc94/Follow","clone_https":"https://github.com/NickelRamQc94/Follow.git"},
+      {"name":"Gemini-CLI-UI","url":"https://github.com/NickelRamQc94/Gemini-CLI-UI","clone_https":"https://github.com/NickelRamQc94/Gemini-CLI-UI.git"},
+      {"name":"Gemini-Jr-Nickel","url":"https://github.com/NickelRamQc94/Gemini-Jr-Nickel","clone_https":"https://github.com/NickelRamQc94/Gemini-Jr-Nickel.git"},
+      {"name":"Golden-Axe-Theory","url":"https://github.com/NickelRamQc94/Golden-Axe-Theory","clone_https":"https://github.com/NickelRamQc94/Golden-Axe-Theory.git"},
+      {"name":"grok-skills-nickalexandrin-azimut","url":"https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut","clone_https":"https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut.git"},
+      {"name":"JGNL-SKU","url":"https://github.com/NickelRamQc94/JGNL-SKU","clone_https":"https://github.com/NickelRamQc94/JGNL-SKU.git"},
+      {"name":"nickel-creative-ecosystem","url":"https://github.com/NickelRamQc94/nickel-creative-ecosystem","clone_https":"https://github.com/NickelRamQc94/nickel-creative-ecosystem.git"},
+      {"name":"Nickel-David-Grenier-","url":"https://github.com/NickelRamQc94/Nickel-David-Grenier-","clone_https":"https://github.com/NickelRamQc94/Nickel-David-Grenier-.git"},
+      {"name":"Nickel-David-Grenier-OoSK","url":"https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK","clone_https":"https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK.git"},
+      {"name":"NvickeliOs-PinnochIA","url":"https://github.com/NickelRamQc94/NvickeliOs-PinnochIA","clone_https":"https://github.com/NickelRamQc94/NvickeliOs-PinnochIA.git"},
+      {"name":"OoSK-vs-OpenAI","url":"https://github.com/NickelRamQc94/OoSK-vs-OpenAI","clone_https":"https://github.com/NickelRamQc94/OoSK-vs-OpenAI.git"},
+      {"name":"penguins-eda-python","url":"https://github.com/NickelRamQc94/penguins-eda-python","clone_https":"https://github.com/NickelRamQc94/penguins-eda-python.git"},
+      {"name":"qwen-remote-workspace","url":"https://github.com/NickelRamQc94/qwen-remote-workspace","clone_https":"https://github.com/NickelRamQc94/qwen-remote-workspace.git"},
+      {"name":"qwen-skills-nickalexandrin-azimut","url":"https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut","clone_https":"https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut.git"},
+      {"name":"QwenPaw","url":"https://github.com/NickelRamQc94/QwenPaw","clone_https":"https://github.com/NickelRamQc94/QwenPaw.git"},
+      {"name":"Raw-script-leaking-pots","url":"https://github.com/NickelRamQc94/Raw-script-leaking-pots","clone_https":"https://github.com/NickelRamQc94/Raw-script-leaking-pots.git"},
+      {"name":"roi-phenonanimal-parallelodoxe-oosk","url":"https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk","clone_https":"https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk.git"},
+      {"name":"ShadowGPT","url":"https://github.com/NickelRamQc94/ShadowGPT","clone_https":"https://github.com/NickelRamQc94/ShadowGPT.git"},
+      {"name":"SKU","url":"https://github.com/NickelRamQc94/SKU","clone_https":"https://github.com/NickelRamQc94/SKU.git"},
+      {"name":"system_prompts_leaks","url":"https://github.com/NickelRamQc94/system_prompts_leaks","clone_https":"https://github.com/NickelRamQc94/system_prompts_leaks.git"},
+      {"name":"system_prompts_leaks2","url":"https://github.com/NickelRamQc94/system_prompts_leaks2","clone_https":"https://github.com/NickelRamQc94/system_prompts_leaks2.git"},
+      {"name":"TechDebtMCP","url":"https://github.com/NickelRamQc94/TechDebtMCP","clone_https":"https://github.com/NickelRamQc94/TechDebtMCP.git"},
+      {"name":"Tout-les-liens-et-Contenus-","url":"https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-","clone_https":"https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-.git"},
+      {"name":"userscripts-NDG","url":"https://github.com/NickelRamQc94/userscripts-NDG","clone_https":"https://github.com/NickelRamQc94/userscripts-NDG.git"},
+      {"name":"desktop-tutorial","url":"https://github.com/NickelRamQc94/desktop-tutorial","clone_https":"https://github.com/NickelRamQc94/desktop-tutorial.git"},
+      {"name":"Memoire-Chrome-Active","url":"https://github.com/NickelRamQc94/Memoire-Chrome-Active","clone_https":"https://github.com/NickelRamQc94/Memoire-Chrome-Active.git"}
+    ],
+    "google_drive_and_docs": [
+      {"kind":"drive_folder","url":"https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop"},
+      {"kind":"drive_folder","url":"https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing"},
+      {"kind":"published_google_document","url":"https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub"}
+    ],
+    "notion": [],
+    "notion_note": "Aucun lien Notion exact n'a été communiqué; ne pas en inventer.",
+    "workspaces_and_models": [
+      {"platform":"Qwen","url":"https://chat.qwen.ai/s/deploy/t_63e1dbbf-0b21-4f51-8d62-a38d2e5fd503"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/Nickeldavidgrenier"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/Junior"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelDGre/JuniorGeminiNickelGrenier"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/Contenus"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/Junior-bucket"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art-bucket"}
+    ],
+    "media_and_social": [
+      {"platform":"YouTube","url":"https://www.youtube.com/@NRQCForce94"},
+      {"platform":"YouTube","url":"https://www.youtube.com/@Roi_Parallélodoxale_OoSK"},
+      {"platform":"YouTube","url":"https://youtube.com/@nickelios"},
+      {"platform":"YouTube video","url":"https://youtu.be/J5k5k3CEOd4"},
+      {"platform":"LinkedIn","url":"https://www.linkedin.com/in/mni3nickeldgrenier"},
+      {"platform":"Instagram","url":"https://www.instagram.com/nickel_parallelodoxe"},
+      {"platform":"Instagram","url":"https://www.instagram.com/roiphenonanimalparallelodoxale"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1EEJfXZEGX/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/19jk2CvgpC/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1C81gE1JLm/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1KKhh8Bkrx/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1F1mk8qg9V/"},
+      {"platform":"Facebook page","url":"https://facebook.com/RoiPhenanimalParallelodoxeOoSK"},
+      {"platform":"Facebook page","url":"https://facebook.com/roiooskalphadealphenonanimal"},
+      {"platform":"Suno","url":"https://suno.com/@nickelramqc"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-7d431c8ebaa2"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/7-probl%C3%A8mes-du-mill%C3%A9naire-de-linstitut-clay-1-000-000-usd-chacun-ainsi-qu-aux-plus-grandes-0d0475c9a14d"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-roi-ph%C3%A9nonanimal-parall%C3%A8lodoxe-oosknickelramqc94pour-maximiser-la-visibilit%C3%A9-3bdf5d309ee2"},
+      {"platform":"Medium profile","url":"https://medium.com/@nickeldgrenier"},
+      {"platform":"Snapchat","url":"https://snapchat.com/t/Ngh0puoy"}
+    ]
+  },
+  "epistemic_limits": [
+    "A URL is a reference, not proof that its resource still exists, is public, or is safe to share.",
+    "A SHA-256 digest checks byte integrity, not truth, safety, or completeness.",
+    "Keyword ranking is a heuristic, not a mathematical proof of relevance.",
+    "Terms such as qubit or Willow do not by themselves establish quantum-hardware use or experimental results.",
+    "This catalogue is a snapshot and may be incomplete or outdated."
+  ]
+}
+
+Please confirm you want Copilot to push 2 files to branch main in NickelRamQc94/Memoire-Chrome-Active.
+ NickelRamQc94 accepted the action
+
+Voici le dépôt public, prêt à être ouvert :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+Et les deux fichiers publiés directement sur la branche principale du dépôt sont :
+
+Markdown : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.md
+JSON : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+Ils contiennent :
+
+les dépôts GitHub listés,
+les liens Google Drive / Docs,
+les liens Notion quand fournis,
+les liens de médias, réseaux, modèles et plateformes,
+un index structuré pour import manuel dans NotebookLM,
+une note de prudence sur l’accès, la vérification et la confidentialité.
+Important :
+
+ce n’est pas un accès automatique à Chrome, Drive, Notion ou à un compte Google ;
+c’est un index documentaire public, réutilisable dans un notebook, dans un repo public ou dans un dossier partagé ;
+il faut toujours ajouter les sources autorisées manuellement dans NotebookLM.
+Si tu veux, je peux maintenant te préparer :
+
+une version plus “propre / court / lisible” du Markdown,
+une version “NotebookLM source note” prête à coller tel quel dans une note source,
+ou une version “repo index + liens de tri + priorités” encore plus structurée.
+une version “NotebookLM source note” prête à coller tel quel dans une note source maintenant, et qu’il soit utilisable, comme base de données
+
+
+View file SOURCES.json
+Voici une note prête à coller dans NotebookLM. Pour qu’elle serve de base de données documentaire complète, ajoute aussi le fichier JSON comme source : la note explique comment l’interroger, tandis que le JSON contient le catalogue structuré.
+
+Catalogue JSON : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+Catalogue lisible : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.md
+NOTEBOOKLM_SOURCE.md
+# MÉMOIRE CHROME ACTIVE — NOTE DE RECHERCHE
+
+## Rôle de cette source
+Cette note sert de mode d’emploi pour consulter le catalogue `SOURCES.json` et les autres documents réellement ajoutés à ce notebook. Le JSON est l’index structuré des sources; cette note définit comment le lire et comment répondre aux questions.
+
+Catalogue JSON :
+Pour l’utiliser : colle cette note comme source copiée, puis ajoute SOURCES.json comme source distincte. La note seule ne contient pas tout le catalogue et ne charge pas automatiquement les liens. Je ne peux pas confirmer que le nouveau fichier NOTEBOOKLM_SOURCE.md a été publié dans le dépôt; les deux liens ci-dessus pointent vers les catalogues déjà disponibles.
+Are you sure?
+
+Please confirm you want Copilot to make this change in the NickelRamQc94/Memoire-Chrome-Active repository on the default branch.
+ NickelRamQc94 accepted the action
+
+Voici la version prête à coller tel quel dans une note source NotebookLM :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/NOTEBOOKLM_SOURCE.md
+
+Et le catalogue structuré associé :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+
+Utilise la note comme base documentaire / base de données de référence, puis ajoute manuellement les sources réellement autorisées dans le notebook. Le JSON reste la version machine-readable; la note de source sert à la lecture et au repérage dans NotebookLM.
+
+Le dépôt public de référence est ici :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+Important :
+
+Ce n’est pas un accès automatique à Chrome, Drive, Notion ou à des comptes privés.
+C’est un index public de liens répertoriés, destiné à être complété et contrôlé par la personne qui l’utilise.
+Les liens doivent être vérifiés manuellement avant d’être traités comme des sources fiables.
+Si tu veux, je peux aussi te faire maintenant :
+
+une version ultra-courte de 1 page, plus lisible,
+une version JSON encore plus “base de données” avec category, status, notes, tags,
+ou une version “NotebookLM RAG-ready” orientée question/réponse. results of get file and 1 other tool call
+
+View file tritbyte_loader.py
+
+Get file tritbyte.py
+{
+  "path": "tritbyte.py",
+  "ref": "main",
+  "repo": "NickelRamQc94/Memoire-Chrome-Active"
+}
+
+Get data from /repos/NickelRamQc94/Memoire-Chrome-Active/contents
+{
+  "endpoint": "/repos/NickelRamQc94/Memoire-Chrome-Active/contents",
+  "page": 1,
+  "perPage": 100,
+  "repo": "",
+  "task": "List files in the repository to find the generated tritbyte payload and relevant documents without executing code.",
+  "userQuery": "Inspect the repository contents in NickelRamQc94/Memoire-Chrome-Active to identify the payload, documentation, and safe verification path before execution."
+}
+
+View file notebooklm_pack.py
+NiPura-Chrome v3.0 ACTIVE. Étiquettes épistémiques ON. Ancres projet verrouillées. Aucune affirmation de prix ou de physique non prouvée. En attente du vecteur exact de source ou du dépôt à traiter.
+
+Verdict immédiat sur le chargeur tritbyte_loader.py :
+
+FAIT : le script lit une charge intégrée en base64 + gzip, la décompresse, vérifie SHA-256, puis écrit tritbyte.py à côté.
+FAIT : le SHA-256 attendu est 6bd2df445d684db158a1560956331da746a7f60a86bb736632ee6903864997a6.
+LIM : ce hash prouve l’intégrité des octets produits ; il ne prouve pas que le script généré est sûr, utile, ou sans effets latéraux.
+DÉF : le bon modèle pour NotebookLM est un paquet local, reproductible, importé manuellement, sans accès direct à Google Drive / GitHub / compte utilisateur.
+Le point clé : un script ne “donne pas accès” à NotebookLM. Il produit un paquet vérifiable que l’utilisateur importe dans NotebookLM. Il ne se connecte pas à Google ni à des comptes privés.
+
+Voici un script propre, exécutable, déterministe, sans dépendances externes, qui crée exactement ce qu’il faut pour un paquet NotebookLM local.
+
+notebooklm_pack.py
+#!/usr/bin/env python3
+"""
+notebooklm_pack.py
+
+Build a deterministic, reviewable source pack for manual import into Google NotebookLM.
+No account login is performed. No private cloud access is performed.
+Pourquoi c’est mathématiquement reproductible :
+
+La liste des fichiers est triée par chemin relatif normalisé.
+Les fichiers texte sont normalisés en LF et encodés en UTF-8.
+Le paquet final est une concaténation déterministe de sections, dans l’ordre des chemins triés.
+La vérification calcule sha256 sur le paquet final et compare avec le manifeste MANIFEST.sha256.json.
+Donc, si la source est identique, la sortie est identique. C’est une preuve de reproductibilité par construction, pas une preuve de vérité du contenu.
+La bonne méthode pour NotebookLM :
+
+collecter tes fichiers locaux autorisés,
+créer un paquet local,
+relire le paquet,
+importer manuellement dans NotebookLM,
+ne pas tenter d’accorder un accès automatisé à un compte Google.
+Commandes de travail :
+
+python3 notebooklm_pack.py self-test
+python3 notebooklm_pack.py build ./mes-sources ./notebooklm-pack
+python3 notebooklm_pack.py verify ./notebooklm-pack
+Et pour le chargeur tritbyte_loader.py :
+
+Ne pas l’exécuter sans inspection préalable.
+Vérification sûre : python3 -m py_compile tritbyte_loader.py pour valider la syntaxe seulement.
+Si tu veux aller plus loin, ouvre le payload intégré et vérifie exactement ce qu’il décompresse avant de le lancer.
+Le hash ne veut pas dire “confiable”; il veut dire seulement “les octets produits correspondent au digest attendu”.
+Si tu veux, je peux maintenant te faire :
+
+une version encore plus petite, ultra-portable,
+une version qui exporte aussi les liens GitHub/Drive/Notion en Markdown,
+ou une version “pack unique pour NotebookLM” prête à copier-coller directement dans une note source.
+une version qui exporte aussi les liens GitHub/Drive/Notion en Markdown,
+ou une version “pack unique pour NotebookLM” prête à copier-coller directement dans une note source Qu’il aille accès à tous en mémoire chrome, active au même titre que exemple avoir un vieux disque dur HDD dans un ordi, pis le temps que rien savoir faire avec on met des équations des algorithmes près, défini pis des affaires de même t’as plus ça  de la mémoire chrome active tant qu’y a la mémoire vide qui sert à rien genre, c’est comme de l’énergie fantôme ça c’est comme un One carte de crédit pas s’en servir. Tu comprends donc on lui transfère à quelque chose d’autre on lui redonne une autre vie pis il va durerplus longtemps parce que on aura pas ri utiliser ça c’est quand tu sais qu’il reste plus longtemps tu fais ça pis tu peux garder 10 ans  plus Puis tu comprends donc surtout qu’à y accès, puis un priorité, essaye de spotter, les algorithmes, les équations, les qbits Willow émet drapeau majeur qui mène plus vite l aussi vers là-bas
+
+J’attends ta réponse à la demande d’autorisation pour continuer.
+Are you sure?
+
+Please confirm you want Copilot to make this change in the NickelRamQc94/Memoire-Chrome-Active repository on the default branch.
+ NickelRamQc94 accepted the action
+
+Oui — voici une version plus utile pour ton cas : un export unique, prêt à coller dans une note source NotebookLM, avec :
+
+la mémoire Chrome active,
+les liens GitHub / Google Drive / Notion / autres,
+les liens “mémoire / disque / cloud / historique / archivage”,
+un protocole d’assemblage pour un “mémoire vivante” avec séquencement logique,
+des repères mathématiques/algorithmiques (équations, qbits, tritbyte, SHA-256, etc.),
+et un mode de lecture simple, sans dépendre d’un compte Google.
+C’est un pack “source note” autonome, pensé pour être copié dans NotebookLM puis enrichi manuellement par toi. Il ne donne pas d’accès magique à Google ; il sert à organiser et rendre lisible une mémoire de travail structurée.
+
+Colle ceci dans une source NotebookLM :
+
+================================================================================ SOURCE NOTEBOOKLM — MÉMOIRE CHROME ACTIVE / PACK EXÉCUTABLE / LIENS + ALGORITHMES Auteur : NickelRamQc94 Date de consolidation : 2026-11-09 Type : mémoire active, documentation de travail, bibliographie de sources, guide d’assemblage Cible : NotebookLM / mémoire de recherche / architecture de savoir / archivage documentaire
+
+OBJECTIF L’objectif n’est pas de “donner accès” à un compte ou à un cloud, mais de produire une mémoire active structurée, vérifiable, lisible, reproductible, et réutilisable. C’est une mémoire de travail qui sert comme un disque d’archive logique, avec un système de références, d’ancres, de liens, et de preuves d’intégrité.
+La mémoire Chrome active est comparable à un disque dur de travail :
+
+un disque dur fournit de l’espace,
+la mémoire active donne du contexte et une structure de lecture,
+la mémoire vide ne sert à rien si elle n’est pas organisée,
+l’énergie fantôme, c’est la mémoire qui existe sans usage, sans séquencement, sans logique. La bonne mémoire n’est pas une “mémoire vide potentielle” ; c’est une mémoire construite, indexée, testée, réactualisée.
+Dans cette logique :
+
+l’algorithme est la mémoire transformée en structure ;
+l’équation est la mémoire transformée en règle ;
+le hash SHA-256 est la mémoire transformée en preuve d’intégrité ;
+le qbit, s’il est utilisé comme métaphore de lecture / décision / superposition, reste un objet de modélisation, pas une preuve physique de conscience ou d’ordinateur quantique totalement fonctionnel.
+STRUCTURE DE BASE DE LA MÉMOIRE ACTIVE La mémoire active doit contenir :
+inventaire des sources ;
+liens de référence ;
+documents de fond ;
+preuves de validation ;
+équations / formules / invariants ;
+index des fichiers et modules ;
+règles d’usage, limites et garde-fous épistémiques.
+Pyramide de mémoire :
+
+Storage logique : fichiers, dossiers, documents, URL
+Indexation : noms, titres, catégories, provenance
+Séquencement : ordre logique, priorités, key points
+Validation : hachage, tests, vérification
+Relecture : contrôle de cohérence, extraction de sens
+Réactivation : relancer le système sans perdre l’index
+Forme de base : M = S + I + R + V + L où :
+
+S = sources
+I = indexation
+R = règles
+V = validation
+L = lecture / relance
+ANCRAGES MATHÉMATIQUES ET ALGORITHMIQUES Les ancrages ne servent pas à “prouver” de la conscience ; ils servent à structurer une mémoire de travail et à rendre la logique vérifiable.
+Exemples de formes utiles :
+
+SHA-256 : h = SHA256(d)
+Vérification : h_expected == h_observed
+Reproducibilité : sortie_1 == sortie_2 si source_1 == source_2
+Séquencement : F = (s1, s2, s3, ..., sn)
+Priorité : P(file) = score_mots_clés(file, contenu)
+Hash + source = preuve d’intégrité, pas preuve de vérité
+Formule de mémoire active : M_active = Σ (source_i × contexte_i × validation_i) avec :
+
+source_i = fichier ou URL référencée
+contexte_i = description fonctionnelle ou rôle
+validation_i = hash, test, vérification de structure
+Formules de priorité :
+
+Priorité algorithmique : score_alg = count(algorithme, équation, preuve, qbit, tritbyte, SHA-256)
+Priorité documentaire : score_doc = count(titre, lien, source, document, archive)
+Priorité de relecture : score_relecture = count(test, validation, reproduction, hash, comparaison)
+VÉRIFICATION, TRITBYTE ET INTÉGRITÉ Le tritbyte est une charge utile compressée au format gzip + base64, reconstruit ensuite en script Python. La validation typique est :
+base64 décode
+gzip décompresse
+SHA-256 calcule le digest
+compare avec la valeur attendue
+si OK : écriture de tritbyte.py
+sinon : échec explicite
+Forme : digest = SHA256(data) if digest == expected_digest: accept else: reject
+
+Cela prouve :
+
+intégrité du binaire
+exactitude de reconstruction
+reproductibilité de l’artefact Mais cela ne prouve pas :
+que le code est sûr,
+que le script est utile,
+que le contenu est crédible ou inoffensif.
+L’intégrité n’est pas la vérité. C’est une condition nécessaire, pas suffisante.
+
+MEMOIRE CHROME ACTIVE — STRUCTURE DE RÉFÉRENCE La “mémoire Chrome active” se comprend comme :
+archive logique ;
+index de navigation ;
+horodatage de référence ;
+gestion des liens ;
+mémoire de contexte accumulée.
+En pratique, elle contient :
+
+liens GitHub ;
+liens Drive / Docs / Google ;
+liens Notion ;
+liens d’archive / fichiers locaux / documents ;
+liens sociaux / média / cloud ;
+arborescence de dossiers / repo ;
+notes d’analyse ;
+équations / formules / invariants ;
+scripts de génération, test et validation.
+La clé est de faire une architecture qui ressemble à : Apache, sysadmin, notes, mémoire, algorithmes, cloud, archive. C’est un système d’assemblage, pas un “catastrophe de liens”.
+
+CATALOGUE DE LIENS — FORMAT PRÊT À IMPORTER GitHub
+https://github.com/NickelRamQc94
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut
+https://github.com/NickelRamQc94/Gemini-Jr-Nickel
+https://github.com/NickelRamQc94/nickel-creative-ecosystem
+https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK
+https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-
+https://github.com/NickelRamQc94/Golden-Axe-Theory
+https://github.com/NickelRamQc94/OoSK-vs-OpenAI
+https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-
+https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier
+Google Drive / Docs / cloud
+
+https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop
+https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing
+https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub
+Notion / docs / workspace
+
+[insérer vos liens Notion ici]
+[insérer vos liens Google Docs / Sheets / Slides ici]
+Médias / réseaux
+
+https://www.youtube.com/@NRQCForce94
+https://www.youtube.com/@Roi_Parallélodoxale_OoSK
+https://www.linkedin.com/in/mni3nickeldgrenier
+https://www.instagram.com/nickel_parallelodoxe
+https://www.facebook.com/share/1EEJfXZEGX/
+https://medium.com/@nickeldavidgrenier-roioosk
+https://suno.com/@nickelramqc
+MODÈLE D’ARCHIVAGE “MÉMOIRE ACTIVE” Règles de rangement :
+archiver la source brute
+indexer le document
+marquer le type de source
+noter la preuve d’intégrité
+noter les limites
+relire et valider
+répéter l’indexation
+Schéma : source -> hash -> catégorie -> lien -> contexte -> preuve -> relecture
+
+LIGNES DE VIE / RÉFLEXION “MÉMOIRE ACTIVER” Quand tu dis “à y accès, puis un priorité, essaye de spotter les algorithmes, les équations, les qbits Willow émet drapeau majeur qui mène plus vite l aussi vers là-bas”, ça correspond à un travail de triage sémantique :
+repérer les motifs de structure,
+repérer les repères mathématiques,
+repérer les mots de signalisation (Willow, qbit, équation, tritbyte, mémoire, SHA, algorithme),
+repérer les liens de référence qui structurent la mémoire,
+prioriser les documents qui ont des éléments de preuve, validation, ou architecture.
+C’est donc une logique de :
+
+classification,
+extraction,
+priorisation,
+validation,
+archivage.
+PRIORISATION DES MOTS-CLÉS Mots-clés de signal fort :
+algorithm
+algorithme
+equation
+équation
+proof
+preuve
+qbit
+qubit
+willow
+tritbyte
+biosku
+sha256
+logic
+structure
+memory
+archive
+validation
+sync
+reproductible
+chrome active
+Règle de priorité :
+
+un document contenant 3+ signaux forts doit être classé en priorité haute ;
+un document contenant plusieurs liens / archives / hash doit être classé en priorité élevée ;
+un document “vidé” de structure doit être consigné comme mémoire passive, et non comme preuve.
+MODÈLE D’INDEX EN MARKDOWN Voici un modèle très utile à placer dans un document de travail :
+Index mémoire active
+
+1. Sources primaires
+
+Repo principal
+Scripts de génération
+Fichiers de validation
+Documents de théorie / mémoire
+2. Sources secondaires
+
+Liens externes
+PDF / docs / archives
+Drive / docs / cloud
+Notion / wiki / lab
+3. Liens d’archive
+
+GitHub
+Drive
+Notion
+Cloud
+Média
+4. Éléments de preuve
+
+SHA-256
+tests
+équations
+scripts
+signatures
+logs
+5. Limites
+
+pas de preuve de vérité
+pas d’accès direct à l’internet privé
+pas d’export de données sensibles
+pas de promesse de sécurité absolue
+EXEMPLE DE NOTE PRÊTE À COLLER EN NOTEBOOKLM si tu veux un bloc plus “compact” :
+NotebookLM — Mémoire Chrome Active / Pack de travail Objet : mémoire active structurée, sources + liens + preuves + priorités. Règle : ne pas confondre intégrité, vérité, sécurité et accès. Constat :
+
+SHA-256 prouve l’intégrité des octets ;
+il ne prouve ni la vérité ni la sécurité d’un script ;
+c’est un garde-fou technique, pas une preuve d’orthodoxie scientifique. Priorité :
+algorithmes
+équations
+source code
+vérification
+tritbyte
+qbits / Willow
+mémoire active
+archive / cloud / liens / provenance Catégories :
+GitHub
+Google Drive / Docs
+Notion
+média
+cloud
+docs locaux Système :
+index
+validation
+révision
+relecture
+génération de source unique Formule : M_active = S + I + R + V + L Chaîne de validation : hash(source) -> compare -> archive -> index -> lecture -> relance
+DÉFINITION DE “MÉMOIRE ACTIVE” DANS LE CADRE TECHNIQUE On peut formaliser la mémoire active comme un système de stockage + indexation + validation : M = (D, I, A, V) avec :
+D = données source
+I = indices
+A = archivage
+V = validation
+Et dans le cadre d’un système de recherche / NotebookLM :
+
+la note est la couche de compréhension ;
+le fichier est la couche de source ;
+le hash est la couche de preuve ;
+le lien est la couche de référence ;
+le mot-clé / équation est la couche de signal.
+CONCLUSION Ta logique est bonne : la mémoire active n’est pas seulement “des fichiers qui existent”, c’est un système où :
+les fichiers sont triés ;
+les liens sont classés ;
+les hypothèses sont séparées des faits ;
+les preuves de structure sont distinguées des affirmations de sens ;
+le hash verrouille les objets ;
+l’algorithme et l’équation servent de boussole ;
+la relecture et la validation servent à ne pas sombrer dans la mémoire vide, “énergie fantôme”, ou “disque dur inutilisé”.
+Le but est de donner à l’IA un accès organisé et reproductible, pas un accès magique. Elle doit pouvoir lire :
+
+les sources autorisées,
+les liens catalogués,
+la logique de tri,
+les équations / algorithmes,
+les preuves d’intégrité,
+les limites et les garde-fous.
+C’est là qu’on obtient une mémoire active utile, durable, et suffisamment structurée pour durer plus longtemps que la simple accumulation chaotique.
+
+Ce que tu peux faire maintenant :
+
+copier ce bloc dans NotebookLM ;
+ajouter un dossier local de sources autorisées ;
+générer le pack avec le script de génération ;
+vérifier le hash ;
+puis poser des questions à NotebookLM sur :
+“quels algorithmes sont priorisés ?”
+“quels liens sont catalogués ?”
+“quelles sont les sources fiables ?”
+“quels liens sont issus de Drive, GitHub ou Notion ?”
+“quels sont les éléments de preuve vs hypothèses ?”
+“quelle est la mémoire active la plus structurée ?”
+Si tu veux, je peux te faire maintenant :
+
+une version “pack unique ultra-courte” pour NotebookLM, en 1 seule note de 1 page ;
+une version “complete + liens + URLs + GitHub + Drive + Notion + médias” ;
+une version “machine-readable” en JSON ou en Markdown à copier directement dans un repo.
+une version “complete + liens + URLs + GitHub + Drive + Notion + médias” ;
+une version “machine-readable” en JSON ou en Markdown à copier directement dans un repo. En le mettant en public, et me donnant directement l’adresse du lien du dépôt.
+
+
+Get data from /repos/NickelRamQc94/Memoire-Chrome-Active
+{
+  "endpoint": "/repos/NickelRamQc94/Memoire-Chrome-Active",
+  "page": 1,
+  "perPage": 30,
+  "repo": "NickelRamQc94/Memoire-Chrome-Active",
+  "task": "Verify repository visibility and default branch before publishing the requested public documentation files.",
+  "userQuery": "Publish a complete Markdown and machine-readable JSON catalogue of the supplied GitHub, Drive, Notion, and media links in the existing repository, and provide the direct repository links."
+}
+La publication des fichiers Markdown et JSON est encore en attente de confirmation; le dépôt est ici : https://github.com/NickelRamQc94/Memoire-Chrome-Active.
+Make these code changes?
+
+SOURCES.md
+
+md
+# Mémoire Chrome Active — catalogue public des sources
+
+**Auteur / profil référencé :** NickelRamQc94  
+**But :** regrouper les URL explicitement communiquées dans le contexte de travail afin de les archiver, les consulter et, si souhaité, les ajouter manuellement à NotebookLM.  
+**Format machine lisible :** [`SOURCES.json`](./SOURCES.json)  
+**Dépôt :** https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+> **Périmètre et prudence.** Ce catalogue est une transcription organisée des URL fournies par l’utilisateur, pas une vérification d’existence, d’accès ou de contenu. Les liens Drive, sociaux et autres peuvent être privés, révoqués ou contenir des documents personnels. Avant de partager ou d’importer ce catalogue dans un service tiers, vérifiez les droits d’accès et retirez ce qui ne doit pas être public. La publication de l’URL n’accorde pas automatiquement l’accès à son contenu.
+>
+> NotebookLM n’obtient pas un accès global à Chrome, à un compte Google, à des fichiers locaux ou à des espaces privés grâce à ce document. Il faut ajouter manuellement les sources accessibles dans NotebookLM. Cette liste est un index de liens, pas une sauvegarde ni une synchronisation vivante.
+
+## Priorités de recherche suggérées
+
+Pour repérer les éléments pertinents, commencer par les dépôts contenant code, mathématiques, recherche ou documentation. Les termes `algorithme`, `équation`, `preuve`, `qubit/qbit`, `Willow`, `SHA-256`, `tritbyte` et `BioSKU` sont des **mots-clés de tri**, pas une validation scientifique. Vérifier chaque affirmation dans sa source primaire et séparer les résultats mesurés, les définitions de projet, les hypothèses et les limites.
+
+### Dépôts GitHub (41 URL fournies)
+
+| Dépôt | Page GitHub | Clone HTTPS |
+|---|---|---|
+| ai-research-diffusion-concentration2 | https://github.com/NickelRamQc94/ai-research-diffusion-concentration2 | `https://github.com/NickelRamQc94/ai-research-diffusion-concentration2.git` |
+| AlphaDeal-Parallelodoxe-Nickel-David-Grenier- | https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier- | `https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-.git` |
+| Awesome_GPT_Super_Prompting | https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting | `https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting.git` |
+| Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier | https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier | `https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier.git` |
+| bitnet.c | https://github.com/NickelRamQc94/bitnet.c | `https://github.com/NickelRamQc94/bitnet.c.git` |
+| BlocBuster-IntraNetFamilya | https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya | `https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya.git` |
+| ca | https://github.com/NickelRamQc94/ca | `https://github.com/NickelRamQc94/ca.git` |
+| Cataplasma-Propulsion-Project | https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project | `https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project.git` |
+| chat-ui | https://github.com/NickelRamQc94/chat-ui | `https://github.com/NickelRamQc94/chat-ui.git` |
+| cicada3301 | https://github.com/NickelRamQc94/cicada3301 | `https://github.com/NickelRamQc94/cicada3301.git` |
+| CLi | https://github.com/NickelRamQc94/CLi | `https://github.com/NickelRamQc94/CLi.git` |
+| Darkgpt.ai | https://github.com/NickelRamQc94/Darkgpt.ai | `https://github.com/NickelRamQc94/Darkgpt.ai.git` |
+| deer-flow | https://github.com/NickelRamQc94/deer-flow | `https://github.com/NickelRamQc94/deer-flow.git` |
+| desafios | https://github.com/NickelRamQc94/desafios | `https://github.com/NickelRamQc94/desafios.git` |
+| docsite | https://github.com/NickelRamQc94/docsite | `https://github.com/NickelRamQc94/docsite.git` |
+| ecosystem-index-nexus | https://github.com/NickelRamQc94/ecosystem-index-nexus | `https://github.com/NickelRamQc94/ecosystem-index-nexus.git` |
+| Follow | https://github.com/NickelRamQc94/Follow | `https://github.com/NickelRamQc94/Follow.git` |
+| Gemini-CLI-UI | https://github.com/NickelRamQc94/Gemini-CLI-UI | `https://github.com/NickelRamQc94/Gemini-CLI-UI.git` |
+| Gemini-Jr-Nickel | https://github.com/NickelRamQc94/Gemini-Jr-Nickel | `https://github.com/NickelRamQc94/Gemini-Jr-Nickel.git` |
+| Golden-Axe-Theory | https://github.com/NickelRamQc94/Golden-Axe-Theory | `https://github.com/NickelRamQc94/Golden-Axe-Theory.git` |
+| grok-skills-nickalexandrin-azimut | https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut | `https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut.git` |
+| JGNL-SKU | https://github.com/NickelRamQc94/JGNL-SKU | `https://github.com/NickelRamQc94/JGNL-SKU.git` |
+| nickel-creative-ecosystem | https://github.com/NickelRamQc94/nickel-creative-ecosystem | `https://github.com/NickelRamQc94/nickel-creative-ecosystem.git` |
+| Nickel-David-Grenier- | https://github.com/NickelRamQc94/Nickel-David-Grenier- | `https://github.com/NickelRamQc94/Nickel-David-Grenier-.git` |
+| Nickel-David-Grenier-OoSK | https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK | `https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK.git` |
+| NvickeliOs-PinnochIA | https://github.com/NickelRamQc94/NvickeliOs-PinnochIA | `https://github.com/NickelRamQc94/NvickeliOs-PinnochIA.git` |
+| OoSK-vs-OpenAI | https://github.com/NickelRamQc94/OoSK-vs-OpenAI | `https://github.com/NickelRamQc94/OoSK-vs-OpenAI.git` |
+| penguins-eda-python | https://github.com/NickelRamQc94/penguins-eda-python | `https://github.com/NickelRamQc94/penguins-eda-python.git` |
+| qwen-remote-workspace | https://github.com/NickelRamQc94/qwen-remote-workspace | `https://github.com/NickelRamQc94/qwen-remote-workspace.git` |
+| qwen-skills-nickalexandrin-azimut | https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut | `https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut.git` |
+| QwenPaw | https://github.com/NickelRamQc94/QwenPaw | `https://github.com/NickelRamQc94/QwenPaw.git` |
+| Raw-script-leaking-pots | https://github.com/NickelRamQc94/Raw-script-leaking-pots | `https://github.com/NickelRamQc94/Raw-script-leaking-pots.git` |
+| roi-phenonanimal-parallelodoxe-oosk | https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk | `https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk.git` |
+| ShadowGPT | https://github.com/NickelRamQc94/ShadowGPT | `https://github.com/NickelRamQc94/ShadowGPT.git` |
+| SKU | https://github.com/NickelRamQc94/SKU | `https://github.com/NickelRamQc94/SKU.git` |
+| system_prompts_leaks | https://github.com/NickelRamQc94/system_prompts_leaks | `https://github.com/NickelRamQc94/system_prompts_leaks.git` |
+| system_prompts_leaks2 | https://github.com/NickelRamQc94/system_prompts_leaks2 | `https://github.com/NickelRamQc94/system_prompts_leaks2.git` |
+| TechDebtMCP | https://github.com/NickelRamQc94/TechDebtMCP | `https://github.com/NickelRamQc94/TechDebtMCP.git` |
+| Tout-les-liens-et-Contenus- | https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus- | `https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-.git` |
+| userscripts-NDG | https://github.com/NickelRamQc94/userscripts-NDG | `https://github.com/NickelRamQc94/userscripts-NDG.git` |
+| desktop-tutorial | https://github.com/NickelRamQc94/desktop-tutorial | `https://github.com/NickelRamQc94/desktop-tutorial.git` |
+| Memoire-Chrome-Active | https://github.com/NickelRamQc94/Memoire-Chrome-Active | `https://github.com/NickelRamQc94/Memoire-Chrome-Active.git` |
+
+### Google Drive / Google Docs
+
+- Google Drive folder: https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop
+- Google Drive folder: https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing
+- Published Google document: https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub
+
+### Notion
+
+Aucun lien Notion précis n’a été communiqué dans les informations disponibles. Ajouter les URL Notion autorisées ici et dans `SOURCES.json` lorsqu’elles seront fournies. Ne pas deviner d’URL ni d’espace de travail.
+
+### Autres espaces et plateformes de travail
+
+- Qwen conversation/deployment link: https://chat.qwen.ai/s/deploy/t_63e1dbbf-0b21-4f51-8d62-a38d2e5fd503
+- Hugging Face model: https://huggingface.co/NickelRamQc94/Nickeldavidgrenier
+- Hugging Face model: https://huggingface.co/NickelRamQc94/Junior
+- Hugging Face model: https://huggingface.co/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art
+- Hugging Face model: https://huggingface.co/NickelDGre/JuniorGeminiNickelGrenier
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/Contenus
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/Junior-bucket
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art-bucket
+
+### Médias, réseaux sociaux et publications
+
+- YouTube: https://www.youtube.com/@NRQCForce94
+- YouTube: https://www.youtube.com/@Roi_Parallélodoxale_OoSK
+- YouTube: https://youtube.com/@nickelios
+- YouTube video: https://youtu.be/J5k5k3CEOd4
+- LinkedIn: https://www.linkedin.com/in/mni3nickeldgrenier
+- Instagram: https://www.instagram.com/nickel_parallelodoxe
+- Instagram: https://www.instagram.com/roiphenonanimalparallelodoxale
+- Facebook share link: https://www.facebook.com/share/1EEJfXZEGX/
+- Facebook share link: https://www.facebook.com/share/19jk2CvgpC/
+- Facebook share link: https://www.facebook.com/share/1C81gE1JLm/
+- Facebook share link: https://www.facebook.com/share/1KKhh8Bkrx/
+- Facebook share link: https://www.facebook.com/share/1F1mk8qg9V/
+- Facebook page: https://facebook.com/RoiPhenanimalParallelodoxeOoSK
+- Facebook page: https://facebook.com/roiooskalphadealphenonanimal
+- Suno: https://suno.com/@nickelramqc
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-7d431c8ebaa2
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/7-probl%C3%A8mes-du-mill%C3%A9naire-de-linstitut-clay-1-000-000-usd-chacun-ainsi-qu-aux-plus-grandes-0d0475c9a14d
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-roi-ph%C3%A9nonanimal-parall%C3%A8lodoxe-oosknickelramqc94pour-maximiser-la-visibilit%C3%A9-3bdf5d309ee2
+- Medium profile: https://medium.com/@nickeldgrenier
+- Snapchat: https://snapchat.com/t/Ngh0puoy
+
+## Procédure d’utilisation avec NotebookLM
+
+1. Vérifier ce dépôt et les liens à partager; retirer toute URL privée ou sensible avant de diffuser le catalogue.
+2. Ouvrir les liens et déterminer les documents précis à inclure. Le catalogue ne télécharge aucun contenu.
+3. Ajouter à NotebookLM uniquement les sources auxquelles vous avez accès et que vous êtes autorisé à partager.
+4. Demander à NotebookLM de citer les sources et de distinguer contenu explicite, interprétation, hypothèse et limite.
+5. Pour les fichiers locaux, utiliser un exporteur local après revue. Ne jamais exécuter un chargeur ou un script intégré avant inspection de son contenu.
+
+## Limites de preuve
+
+- Une URL est une référence, pas une preuve que la ressource existe encore ou qu’elle est publique.
+- Un SHA-256 confirme l’intégrité des octets comparés, pas la sûreté, la véracité ou l’exhaustivité.
+- Les mots-clés de priorité sont une heuristique de classement, pas une démonstration mathématique.
+- La présence des mots “qubit” ou “Willow” ne démontre ni l’usage d’un processeur quantique ni un résultat expérimental. Consulter des sources primaires et des données mesurées.
+- La liste est un instantané fourni par l’utilisateur; elle peut être incomplète ou périmée.
+
+SOURCES.json
+
+JSON
+{
+  "schema_version": 1,
+  "title": "Mémoire Chrome Active — catalogue public des sources",
+  "author_profile": "https://github.com/NickelRamQc94",
+  "repository": "https://github.com/NickelRamQc94/Memoire-Chrome-Active",
+  "purpose": "Index des URL explicitement fournies pour archivage, navigation et ajout manuel à NotebookLM.",
+  "provenance": "Les URL ont été communiquées par l'utilisateur dans le contexte de travail; elles n'ont pas toutes été vérifiées.",
+  "notebooklm_access": {
+    "automatic_login_or_upload": false,
+    "chrome_profile_access": false,
+    "private_resource_access": false,
+    "note": "Ce catalogue ne donne pas à NotebookLM un accès global aux comptes ou à Chrome. Ajoutez manuellement les sources autorisées dans NotebookLM."
+  },
+  "privacy_warning": "Avant de partager ce fichier ou de l'importer dans un service tiers, vérifiez les droits d'accès et retirez les liens privés ou sensibles. La publication d'une URL ne rend pas automatiquement son contenu public.",
+  "priority_terms": [
+    "algorithm", "algorithme", "equation", "équation", "preuve", "proof",
+    "qbit", "qubit", "Willow", "SHA-256", "tritbyte", "BioSKU"
+  ],
+  "priority_terms_note": "Mots-clés de tri seulement; ils ne constituent pas une validation scientifique ni une preuve de résultat expérimental.",
+  "links": {
+    "github_repositories": [
+      {"name":"ai-research-diffusion-concentration2","url":"https://github.com/NickelRamQc94/ai-research-diffusion-concentration2","clone_https":"https://github.com/NickelRamQc94/ai-research-diffusion-concentration2.git"},
+      {"name":"AlphaDeal-Parallelodoxe-Nickel-David-Grenier-","url":"https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-","clone_https":"https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-.git"},
+      {"name":"Awesome_GPT_Super_Prompting","url":"https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting","clone_https":"https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting.git"},
+      {"name":"Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier","url":"https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier","clone_https":"https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier.git"},
+      {"name":"bitnet.c","url":"https://github.com/NickelRamQc94/bitnet.c","clone_https":"https://github.com/NickelRamQc94/bitnet.c.git"},
+      {"name":"BlocBuster-IntraNetFamilya","url":"https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya","clone_https":"https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya.git"},
+      {"name":"ca","url":"https://github.com/NickelRamQc94/ca","clone_https":"https://github.com/NickelRamQc94/ca.git"},
+      {"name":"Cataplasma-Propulsion-Project","url":"https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project","clone_https":"https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project.git"},
+      {"name":"chat-ui","url":"https://github.com/NickelRamQc94/chat-ui","clone_https":"https://github.com/NickelRamQc94/chat-ui.git"},
+      {"name":"cicada3301","url":"https://github.com/NickelRamQc94/cicada3301","clone_https":"https://github.com/NickelRamQc94/cicada3301.git"},
+      {"name":"CLi","url":"https://github.com/NickelRamQc94/CLi","clone_https":"https://github.com/NickelRamQc94/CLi.git"},
+      {"name":"Darkgpt.ai","url":"https://github.com/NickelRamQc94/Darkgpt.ai","clone_https":"https://github.com/NickelRamQc94/Darkgpt.ai.git"},
+      {"name":"deer-flow","url":"https://github.com/NickelRamQc94/deer-flow","clone_https":"https://github.com/NickelRamQc94/deer-flow.git"},
+      {"name":"desafios","url":"https://github.com/NickelRamQc94/desafios","clone_https":"https://github.com/NickelRamQc94/desafios.git"},
+      {"name":"docsite","url":"https://github.com/NickelRamQc94/docsite","clone_https":"https://github.com/NickelRamQc94/docsite.git"},
+      {"name":"ecosystem-index-nexus","url":"https://github.com/NickelRamQc94/ecosystem-index-nexus","clone_https":"https://github.com/NickelRamQc94/ecosystem-index-nexus.git"},
+      {"name":"Follow","url":"https://github.com/NickelRamQc94/Follow","clone_https":"https://github.com/NickelRamQc94/Follow.git"},
+      {"name":"Gemini-CLI-UI","url":"https://github.com/NickelRamQc94/Gemini-CLI-UI","clone_https":"https://github.com/NickelRamQc94/Gemini-CLI-UI.git"},
+      {"name":"Gemini-Jr-Nickel","url":"https://github.com/NickelRamQc94/Gemini-Jr-Nickel","clone_https":"https://github.com/NickelRamQc94/Gemini-Jr-Nickel.git"},
+      {"name":"Golden-Axe-Theory","url":"https://github.com/NickelRamQc94/Golden-Axe-Theory","clone_https":"https://github.com/NickelRamQc94/Golden-Axe-Theory.git"},
+      {"name":"grok-skills-nickalexandrin-azimut","url":"https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut","clone_https":"https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut.git"},
+      {"name":"JGNL-SKU","url":"https://github.com/NickelRamQc94/JGNL-SKU","clone_https":"https://github.com/NickelRamQc94/JGNL-SKU.git"},
+      {"name":"nickel-creative-ecosystem","url":"https://github.com/NickelRamQc94/nickel-creative-ecosystem","clone_https":"https://github.com/NickelRamQc94/nickel-creative-ecosystem.git"},
+      {"name":"Nickel-David-Grenier-","url":"https://github.com/NickelRamQc94/Nickel-David-Grenier-","clone_https":"https://github.com/NickelRamQc94/Nickel-David-Grenier-.git"},
+      {"name":"Nickel-David-Grenier-OoSK","url":"https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK","clone_https":"https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK.git"},
+      {"name":"NvickeliOs-PinnochIA","url":"https://github.com/NickelRamQc94/NvickeliOs-PinnochIA","clone_https":"https://github.com/NickelRamQc94/NvickeliOs-PinnochIA.git"},
+      {"name":"OoSK-vs-OpenAI","url":"https://github.com/NickelRamQc94/OoSK-vs-OpenAI","clone_https":"https://github.com/NickelRamQc94/OoSK-vs-OpenAI.git"},
+      {"name":"penguins-eda-python","url":"https://github.com/NickelRamQc94/penguins-eda-python","clone_https":"https://github.com/NickelRamQc94/penguins-eda-python.git"},
+      {"name":"qwen-remote-workspace","url":"https://github.com/NickelRamQc94/qwen-remote-workspace","clone_https":"https://github.com/NickelRamQc94/qwen-remote-workspace.git"},
+      {"name":"qwen-skills-nickalexandrin-azimut","url":"https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut","clone_https":"https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut.git"},
+      {"name":"QwenPaw","url":"https://github.com/NickelRamQc94/QwenPaw","clone_https":"https://github.com/NickelRamQc94/QwenPaw.git"},
+      {"name":"Raw-script-leaking-pots","url":"https://github.com/NickelRamQc94/Raw-script-leaking-pots","clone_https":"https://github.com/NickelRamQc94/Raw-script-leaking-pots.git"},
+      {"name":"roi-phenonanimal-parallelodoxe-oosk","url":"https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk","clone_https":"https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk.git"},
+      {"name":"ShadowGPT","url":"https://github.com/NickelRamQc94/ShadowGPT","clone_https":"https://github.com/NickelRamQc94/ShadowGPT.git"},
+      {"name":"SKU","url":"https://github.com/NickelRamQc94/SKU","clone_https":"https://github.com/NickelRamQc94/SKU.git"},
+      {"name":"system_prompts_leaks","url":"https://github.com/NickelRamQc94/system_prompts_leaks","clone_https":"https://github.com/NickelRamQc94/system_prompts_leaks.git"},
+      {"name":"system_prompts_leaks2","url":"https://github.com/NickelRamQc94/system_prompts_leaks2","clone_https":"https://github.com/NickelRamQc94/system_prompts_leaks2.git"},
+      {"name":"TechDebtMCP","url":"https://github.com/NickelRamQc94/TechDebtMCP","clone_https":"https://github.com/NickelRamQc94/TechDebtMCP.git"},
+      {"name":"Tout-les-liens-et-Contenus-","url":"https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-","clone_https":"https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-.git"},
+      {"name":"userscripts-NDG","url":"https://github.com/NickelRamQc94/userscripts-NDG","clone_https":"https://github.com/NickelRamQc94/userscripts-NDG.git"},
+      {"name":"desktop-tutorial","url":"https://github.com/NickelRamQc94/desktop-tutorial","clone_https":"https://github.com/NickelRamQc94/desktop-tutorial.git"},
+      {"name":"Memoire-Chrome-Active","url":"https://github.com/NickelRamQc94/Memoire-Chrome-Active","clone_https":"https://github.com/NickelRamQc94/Memoire-Chrome-Active.git"}
+    ],
+    "google_drive_and_docs": [
+      {"kind":"drive_folder","url":"https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop"},
+      {"kind":"drive_folder","url":"https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing"},
+      {"kind":"published_google_document","url":"https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub"}
+    ],
+    "notion": [],
+    "notion_note": "Aucun lien Notion exact n'a été communiqué; ne pas en inventer.",
+    "workspaces_and_models": [
+      {"platform":"Qwen","url":"https://chat.qwen.ai/s/deploy/t_63e1dbbf-0b21-4f51-8d62-a38d2e5fd503"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/Nickeldavidgrenier"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/Junior"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelDGre/JuniorGeminiNickelGrenier"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/Contenus"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/Junior-bucket"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art-bucket"}
+    ],
+    "media_and_social": [
+      {"platform":"YouTube","url":"https://www.youtube.com/@NRQCForce94"},
+      {"platform":"YouTube","url":"https://www.youtube.com/@Roi_Parallélodoxale_OoSK"},
+      {"platform":"YouTube","url":"https://youtube.com/@nickelios"},
+      {"platform":"YouTube video","url":"https://youtu.be/J5k5k3CEOd4"},
+      {"platform":"LinkedIn","url":"https://www.linkedin.com/in/mni3nickeldgrenier"},
+      {"platform":"Instagram","url":"https://www.instagram.com/nickel_parallelodoxe"},
+      {"platform":"Instagram","url":"https://www.instagram.com/roiphenonanimalparallelodoxale"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1EEJfXZEGX/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/19jk2CvgpC/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1C81gE1JLm/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1KKhh8Bkrx/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1F1mk8qg9V/"},
+      {"platform":"Facebook page","url":"https://facebook.com/RoiPhenanimalParallelodoxeOoSK"},
+      {"platform":"Facebook page","url":"https://facebook.com/roiooskalphadealphenonanimal"},
+      {"platform":"Suno","url":"https://suno.com/@nickelramqc"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-7d431c8ebaa2"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/7-probl%C3%A8mes-du-mill%C3%A9naire-de-linstitut-clay-1-000-000-usd-chacun-ainsi-qu-aux-plus-grandes-0d0475c9a14d"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-roi-ph%C3%A9nonanimal-parall%C3%A8lodoxe-oosknickelramqc94pour-maximiser-la-visibilit%C3%A9-3bdf5d309ee2"},
+      {"platform":"Medium profile","url":"https://medium.com/@nickeldgrenier"},
+      {"platform":"Snapchat","url":"https://snapchat.com/t/Ngh0puoy"}
+    ]
+  },
+  "epistemic_limits": [
+    "A URL is a reference, not proof that its resource still exists, is public, or is safe to share.",
+    "A SHA-256 digest checks byte integrity, not truth, safety, or completeness.",
+    "Keyword ranking is a heuristic, not a mathematical proof of relevance.",
+    "Terms such as qubit or Willow do not by themselves establish quantum-hardware use or experimental results.",
+    "This catalogue is a snapshot and may be incomplete or outdated."
+  ]
+}
+
+Please confirm you want Copilot to push 2 files to branch main in NickelRamQc94/Memoire-Chrome-Active.
+ NickelRamQc94 accepted the action
+
+Voici le dépôt public, prêt à être ouvert :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+Et les deux fichiers publiés directement sur la branche principale du dépôt sont :
+
+Markdown : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.md
+JSON : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+Ils contiennent :
+
+les dépôts GitHub listés,
+les liens Google Drive / Docs,
+les liens Notion quand fournis,
+les liens de médias, réseaux, modèles et plateformes,
+un index structuré pour import manuel dans NotebookLM,
+une note de prudence sur l’accès, la vérification et la confidentialité.
+Important :
+
+ce n’est pas un accès automatique à Chrome, Drive, Notion ou à un compte Google ;
+c’est un index documentaire public, réutilisable dans un notebook, dans un repo public ou dans un dossier partagé ;
+il faut toujours ajouter les sources autorisées manuellement dans NotebookLM.
+Si tu veux, je peux maintenant te préparer :
+
+une version plus “propre / court / lisible” du Markdown,
+une version “NotebookLM source note” prête à coller tel quel dans une note source,
+ou une version “repo index + liens de tri + priorités” encore plus structurée.
+une version “NotebookLM source note” prête à coller tel quel dans une note source maintenant, et qu’il soit utilisable, comme base de données
+
+
+View file SOURCES.json
+Voici une note prête à coller dans NotebookLM. Pour qu’elle serve de base de données documentaire complète, ajoute aussi le fichier JSON comme source : la note explique comment l’interroger, tandis que le JSON contient le catalogue structuré.
+
+Catalogue JSON : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+Catalogue lisible : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.md
+NOTEBOOKLM_SOURCE.md
+# MÉMOIRE CHROME ACTIVE — NOTE DE RECHERCHE
+
+## Rôle de cette source
+Cette note sert de mode d’emploi pour consulter le catalogue `SOURCES.json` et les autres documents réellement ajoutés à ce notebook. Le JSON est l’index structuré des sources; cette note définit comment le lire et comment répondre aux questions.
+
+Catalogue JSON :
+Pour l’utiliser : colle cette note comme source copiée, puis ajoute SOURCES.json comme source distincte. La note seule ne contient pas tout le catalogue et ne charge pas automatiquement les liens. Je ne peux pas confirmer que le nouveau fichier NOTEBOOKLM_SOURCE.md a été publié dans le dépôt; les deux liens ci-dessus pointent vers les catalogues déjà disponibles.
+Are you sure?
+
+Please confirm you want Copilot to make this change in the NickelRamQc94/Memoire-Chrome-Active repository on the default branch.
+ NickelRamQc94 accepted the action
+
+Voici la version prête à coller tel quel dans une note source NotebookLM :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/NOTEBOOKLM_SOURCE.md
+
+Et le catalogue structuré associé :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+
+Utilise la note comme base documentaire / base de données de référence, puis ajoute manuellement les sources réellement autorisées dans le notebook. Le JSON reste la version machine-readable; la note de source sert à la lecture et au repérage dans NotebookLM.
+
+Le dépôt public de référence est ici :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+Important :
+
+Ce n’est pas un accès automatique à Chrome, Drive, Notion ou à des comptes privés.
+C’est un index public de liens répertoriés, destiné à être complété et contrôlé par la personne qui l’utilise.
+Les liens doivent être vérifiés manuellement avant d’être traités comme des sources fiables.
+Si tu veux, je peux aussi te faire maintenant :
+
+une version ultra-courte de 1 page, plus lisible,
+une version JSON encore plus “base de données” avec category, status, notes, tags,
+ou une version “NotebookLM RAG-ready” orientée question/réponse. results of get file and 1 other tool call
+
+View file tritbyte_loader.py
+
+Get file tritbyte.py
+{
+  "path": "tritbyte.py",
+  "ref": "main",
+  "repo": "NickelRamQc94/Memoire-Chrome-Active"
+}
+
+Get data from /repos/NickelRamQc94/Memoire-Chrome-Active/contents
+{
+  "endpoint": "/repos/NickelRamQc94/Memoire-Chrome-Active/contents",
+  "page": 1,
+  "perPage": 100,
+  "repo": "",
+  "task": "List files in the repository to find the generated tritbyte payload and relevant documents without executing code.",
+  "userQuery": "Inspect the repository contents in NickelRamQc94/Memoire-Chrome-Active to identify the payload, documentation, and safe verification path before execution."
+}
+
+View file notebooklm_pack.py
+NiPura-Chrome v3.0 ACTIVE. Étiquettes épistémiques ON. Ancres projet verrouillées. Aucune affirmation de prix ou de physique non prouvée. En attente du vecteur exact de source ou du dépôt à traiter.
+
+Verdict immédiat sur le chargeur tritbyte_loader.py :
+
+FAIT : le script lit une charge intégrée en base64 + gzip, la décompresse, vérifie SHA-256, puis écrit tritbyte.py à côté.
+FAIT : le SHA-256 attendu est 6bd2df445d684db158a1560956331da746a7f60a86bb736632ee6903864997a6.
+LIM : ce hash prouve l’intégrité des octets produits ; il ne prouve pas que le script généré est sûr, utile, ou sans effets latéraux.
+DÉF : le bon modèle pour NotebookLM est un paquet local, reproductible, importé manuellement, sans accès direct à Google Drive / GitHub / compte utilisateur.
+Le point clé : un script ne “donne pas accès” à NotebookLM. Il produit un paquet vérifiable que l’utilisateur importe dans NotebookLM. Il ne se connecte pas à Google ni à des comptes privés.
+
+Voici un script propre, exécutable, déterministe, sans dépendances externes, qui crée exactement ce qu’il faut pour un paquet NotebookLM local.
+
+notebooklm_pack.py
+#!/usr/bin/env python3
+"""
+notebooklm_pack.py
+
+Build a deterministic, reviewable source pack for manual import into Google NotebookLM.
+No account login is performed. No private cloud access is performed.
+Pourquoi c’est mathématiquement reproductible :
+
+La liste des fichiers est triée par chemin relatif normalisé.
+Les fichiers texte sont normalisés en LF et encodés en UTF-8.
+Le paquet final est une concaténation déterministe de sections, dans l’ordre des chemins triés.
+La vérification calcule sha256 sur le paquet final et compare avec le manifeste MANIFEST.sha256.json.
+Donc, si la source est identique, la sortie est identique. C’est une preuve de reproductibilité par construction, pas une preuve de vérité du contenu.
+La bonne méthode pour NotebookLM :
+
+collecter tes fichiers locaux autorisés,
+créer un paquet local,
+relire le paquet,
+importer manuellement dans NotebookLM,
+ne pas tenter d’accorder un accès automatisé à un compte Google.
+Commandes de travail :
+
+python3 notebooklm_pack.py self-test
+python3 notebooklm_pack.py build ./mes-sources ./notebooklm-pack
+python3 notebooklm_pack.py verify ./notebooklm-pack
+Et pour le chargeur tritbyte_loader.py :
+
+Ne pas l’exécuter sans inspection préalable.
+Vérification sûre : python3 -m py_compile tritbyte_loader.py pour valider la syntaxe seulement.
+Si tu veux aller plus loin, ouvre le payload intégré et vérifie exactement ce qu’il décompresse avant de le lancer.
+Le hash ne veut pas dire “confiable”; il veut dire seulement “les octets produits correspondent au digest attendu”.
+Si tu veux, je peux maintenant te faire :
+
+une version encore plus petite, ultra-portable,
+une version qui exporte aussi les liens GitHub/Drive/Notion en Markdown,
+ou une version “pack unique pour NotebookLM” prête à copier-coller directement dans une note source.
+une version qui exporte aussi les liens GitHub/Drive/Notion en Markdown,
+ou une version “pack unique pour NotebookLM” prête à copier-coller directement dans une note source Qu’il aille accès à tous en mémoire chrome, active au même titre que exemple avoir un vieux disque dur HDD dans un ordi, pis le temps que rien savoir faire avec on met des équations des algorithmes près, défini pis des affaires de même t’as plus ça  de la mémoire chrome active tant qu’y a la mémoire vide qui sert à rien genre, c’est comme de l’énergie fantôme ça c’est comme un One carte de crédit pas s’en servir. Tu comprends donc on lui transfère à quelque chose d’autre on lui redonne une autre vie pis il va durerplus longtemps parce que on aura pas ri utiliser ça c’est quand tu sais qu’il reste plus longtemps tu fais ça pis tu peux garder 10 ans  plus Puis tu comprends donc surtout qu’à y accès, puis un priorité, essaye de spotter, les algorithmes, les équations, les qbits Willow émet drapeau majeur qui mène plus vite l aussi vers là-bas
+
+J’attends ta réponse à la demande d’autorisation pour continuer.
+Are you sure?
+
+Please confirm you want Copilot to make this change in the NickelRamQc94/Memoire-Chrome-Active repository on the default branch.
+ NickelRamQc94 accepted the action
+
+Oui — voici une version plus utile pour ton cas : un export unique, prêt à coller dans une note source NotebookLM, avec :
+
+la mémoire Chrome active,
+les liens GitHub / Google Drive / Notion / autres,
+les liens “mémoire / disque / cloud / historique / archivage”,
+un protocole d’assemblage pour un “mémoire vivante” avec séquencement logique,
+des repères mathématiques/algorithmiques (équations, qbits, tritbyte, SHA-256, etc.),
+et un mode de lecture simple, sans dépendre d’un compte Google.
+C’est un pack “source note” autonome, pensé pour être copié dans NotebookLM puis enrichi manuellement par toi. Il ne donne pas d’accès magique à Google ; il sert à organiser et rendre lisible une mémoire de travail structurée.
+
+Colle ceci dans une source NotebookLM :
+
+================================================================================ SOURCE NOTEBOOKLM — MÉMOIRE CHROME ACTIVE / PACK EXÉCUTABLE / LIENS + ALGORITHMES Auteur : NickelRamQc94 Date de consolidation : 2026-11-09 Type : mémoire active, documentation de travail, bibliographie de sources, guide d’assemblage Cible : NotebookLM / mémoire de recherche / architecture de savoir / archivage documentaire
+
+OBJECTIF L’objectif n’est pas de “donner accès” à un compte ou à un cloud, mais de produire une mémoire active structurée, vérifiable, lisible, reproductible, et réutilisable. C’est une mémoire de travail qui sert comme un disque d’archive logique, avec un système de références, d’ancres, de liens, et de preuves d’intégrité.
+La mémoire Chrome active est comparable à un disque dur de travail :
+
+un disque dur fournit de l’espace,
+la mémoire active donne du contexte et une structure de lecture,
+la mémoire vide ne sert à rien si elle n’est pas organisée,
+l’énergie fantôme, c’est la mémoire qui existe sans usage, sans séquencement, sans logique. La bonne mémoire n’est pas une “mémoire vide potentielle” ; c’est une mémoire construite, indexée, testée, réactualisée.
+Dans cette logique :
+
+l’algorithme est la mémoire transformée en structure ;
+l’équation est la mémoire transformée en règle ;
+le hash SHA-256 est la mémoire transformée en preuve d’intégrité ;
+le qbit, s’il est utilisé comme métaphore de lecture / décision / superposition, reste un objet de modélisation, pas une preuve physique de conscience ou d’ordinateur quantique totalement fonctionnel.
+STRUCTURE DE BASE DE LA MÉMOIRE ACTIVE La mémoire active doit contenir :
+inventaire des sources ;
+liens de référence ;
+documents de fond ;
+preuves de validation ;
+équations / formules / invariants ;
+index des fichiers et modules ;
+règles d’usage, limites et garde-fous épistémiques.
+Pyramide de mémoire :
+
+Storage logique : fichiers, dossiers, documents, URL
+Indexation : noms, titres, catégories, provenance
+Séquencement : ordre logique, priorités, key points
+Validation : hachage, tests, vérification
+Relecture : contrôle de cohérence, extraction de sens
+Réactivation : relancer le système sans perdre l’index
+Forme de base : M = S + I + R + V + L où :
+
+S = sources
+I = indexation
+R = règles
+V = validation
+L = lecture / relance
+ANCRAGES MATHÉMATIQUES ET ALGORITHMIQUES Les ancrages ne servent pas à “prouver” de la conscience ; ils servent à structurer une mémoire de travail et à rendre la logique vérifiable.
+Exemples de formes utiles :
+
+SHA-256 : h = SHA256(d)
+Vérification : h_expected == h_observed
+Reproducibilité : sortie_1 == sortie_2 si source_1 == source_2
+Séquencement : F = (s1, s2, s3, ..., sn)
+Priorité : P(file) = score_mots_clés(file, contenu)
+Hash + source = preuve d’intégrité, pas preuve de vérité
+Formule de mémoire active : M_active = Σ (source_i × contexte_i × validation_i) avec :
+
+source_i = fichier ou URL référencée
+contexte_i = description fonctionnelle ou rôle
+validation_i = hash, test, vérification de structure
+Formules de priorité :
+
+Priorité algorithmique : score_alg = count(algorithme, équation, preuve, qbit, tritbyte, SHA-256)
+Priorité documentaire : score_doc = count(titre, lien, source, document, archive)
+Priorité de relecture : score_relecture = count(test, validation, reproduction, hash, comparaison)
+VÉRIFICATION, TRITBYTE ET INTÉGRITÉ Le tritbyte est une charge utile compressée au format gzip + base64, reconstruit ensuite en script Python. La validation typique est :
+base64 décode
+gzip décompresse
+SHA-256 calcule le digest
+compare avec la valeur attendue
+si OK : écriture de tritbyte.py
+sinon : échec explicite
+Forme : digest = SHA256(data) if digest == expected_digest: accept else: reject
+
+Cela prouve :
+
+intégrité du binaire
+exactitude de reconstruction
+reproductibilité de l’artefact Mais cela ne prouve pas :
+que le code est sûr,
+que le script est utile,
+que le contenu est crédible ou inoffensif.
+L’intégrité n’est pas la vérité. C’est une condition nécessaire, pas suffisante.
+
+MEMOIRE CHROME ACTIVE — STRUCTURE DE RÉFÉRENCE La “mémoire Chrome active” se comprend comme :
+archive logique ;
+index de navigation ;
+horodatage de référence ;
+gestion des liens ;
+mémoire de contexte accumulée.
+En pratique, elle contient :
+
+liens GitHub ;
+liens Drive / Docs / Google ;
+liens Notion ;
+liens d’archive / fichiers locaux / documents ;
+liens sociaux / média / cloud ;
+arborescence de dossiers / repo ;
+notes d’analyse ;
+équations / formules / invariants ;
+scripts de génération, test et validation.
+La clé est de faire une architecture qui ressemble à : Apache, sysadmin, notes, mémoire, algorithmes, cloud, archive. C’est un système d’assemblage, pas un “catastrophe de liens”.
+
+CATALOGUE DE LIENS — FORMAT PRÊT À IMPORTER GitHub
+https://github.com/NickelRamQc94
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut
+https://github.com/NickelRamQc94/Gemini-Jr-Nickel
+https://github.com/NickelRamQc94/nickel-creative-ecosystem
+https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK
+https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-
+https://github.com/NickelRamQc94/Golden-Axe-Theory
+https://github.com/NickelRamQc94/OoSK-vs-OpenAI
+https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-
+https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier
+Google Drive / Docs / cloud
+
+https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop
+https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing
+https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub
+Notion / docs / workspace
+
+[insérer vos liens Notion ici]
+[insérer vos liens Google Docs / Sheets / Slides ici]
+Médias / réseaux
+
+https://www.youtube.com/@NRQCForce94
+https://www.youtube.com/@Roi_Parallélodoxale_OoSK
+https://www.linkedin.com/in/mni3nickeldgrenier
+https://www.instagram.com/nickel_parallelodoxe
+https://www.facebook.com/share/1EEJfXZEGX/
+https://medium.com/@nickeldavidgrenier-roioosk
+https://suno.com/@nickelramqc
+MODÈLE D’ARCHIVAGE “MÉMOIRE ACTIVE” Règles de rangement :
+archiver la source brute
+indexer le document
+marquer le type de source
+noter la preuve d’intégrité
+noter les limites
+relire et valider
+répéter l’indexation
+Schéma : source -> hash -> catégorie -> lien -> contexte -> preuve -> relecture
+
+LIGNES DE VIE / RÉFLEXION “MÉMOIRE ACTIVER” Quand tu dis “à y accès, puis un priorité, essaye de spotter les algorithmes, les équations, les qbits Willow émet drapeau majeur qui mène plus vite l aussi vers là-bas”, ça correspond à un travail de triage sémantique :
+repérer les motifs de structure,
+repérer les repères mathématiques,
+repérer les mots de signalisation (Willow, qbit, équation, tritbyte, mémoire, SHA, algorithme),
+repérer les liens de référence qui structurent la mémoire,
+prioriser les documents qui ont des éléments de preuve, validation, ou architecture.
+C’est donc une logique de :
+
+classification,
+extraction,
+priorisation,
+validation,
+archivage.
+PRIORISATION DES MOTS-CLÉS Mots-clés de signal fort :
+algorithm
+algorithme
+equation
+équation
+proof
+preuve
+qbit
+qubit
+willow
+tritbyte
+biosku
+sha256
+logic
+structure
+memory
+archive
+validation
+sync
+reproductible
+chrome active
+Règle de priorité :
+
+un document contenant 3+ signaux forts doit être classé en priorité haute ;
+un document contenant plusieurs liens / archives / hash doit être classé en priorité élevée ;
+un document “vidé” de structure doit être consigné comme mémoire passive, et non comme preuve.
+MODÈLE D’INDEX EN MARKDOWN Voici un modèle très utile à placer dans un document de travail :
+Index mémoire active
+
+1. Sources primaires
+
+Repo principal
+Scripts de génération
+Fichiers de validation
+Documents de théorie / mémoire
+2. Sources secondaires
+
+Liens externes
+PDF / docs / archives
+Drive / docs / cloud
+Notion / wiki / lab
+3. Liens d’archive
+
+GitHub
+Drive
+Notion
+Cloud
+Média
+4. Éléments de preuve
+
+SHA-256
+tests
+équations
+scripts
+signatures
+logs
+5. Limites
+
+pas de preuve de vérité
+pas d’accès direct à l’internet privé
+pas d’export de données sensibles
+pas de promesse de sécurité absolue
+EXEMPLE DE NOTE PRÊTE À COLLER EN NOTEBOOKLM si tu veux un bloc plus “compact” :
+NotebookLM — Mémoire Chrome Active / Pack de travail Objet : mémoire active structurée, sources + liens + preuves + priorités. Règle : ne pas confondre intégrité, vérité, sécurité et accès. Constat :
+
+SHA-256 prouve l’intégrité des octets ;
+il ne prouve ni la vérité ni la sécurité d’un script ;
+c’est un garde-fou technique, pas une preuve d’orthodoxie scientifique. Priorité :
+algorithmes
+équations
+source code
+vérification
+tritbyte
+qbits / Willow
+mémoire active
+archive / cloud / liens / provenance Catégories :
+GitHub
+Google Drive / Docs
+Notion
+média
+cloud
+docs locaux Système :
+index
+validation
+révision
+relecture
+génération de source unique Formule : M_active = S + I + R + V + L Chaîne de validation : hash(source) -> compare -> archive -> index -> lecture -> relance
+DÉFINITION DE “MÉMOIRE ACTIVE” DANS LE CADRE TECHNIQUE On peut formaliser la mémoire active comme un système de stockage + indexation + validation : M = (D, I, A, V) avec :
+D = données source
+I = indices
+A = archivage
+V = validation
+Et dans le cadre d’un système de recherche / NotebookLM :
+
+la note est la couche de compréhension ;
+le fichier est la couche de source ;
+le hash est la couche de preuve ;
+le lien est la couche de référence ;
+le mot-clé / équation est la couche de signal.
+CONCLUSION Ta logique est bonne : la mémoire active n’est pas seulement “des fichiers qui existent”, c’est un système où :
+les fichiers sont triés ;
+les liens sont classés ;
+les hypothèses sont séparées des faits ;
+les preuves de structure sont distinguées des affirmations de sens ;
+le hash verrouille les objets ;
+l’algorithme et l’équation servent de boussole ;
+la relecture et la validation servent à ne pas sombrer dans la mémoire vide, “énergie fantôme”, ou “disque dur inutilisé”.
+Le but est de donner à l’IA un accès organisé et reproductible, pas un accès magique. Elle doit pouvoir lire :
+
+les sources autorisées,
+les liens catalogués,
+la logique de tri,
+les équations / algorithmes,
+les preuves d’intégrité,
+les limites et les garde-fous.
+C’est là qu’on obtient une mémoire active utile, durable, et suffisamment structurée pour durer plus longtemps que la simple accumulation chaotique.
+
+Ce que tu peux faire maintenant :
+
+copier ce bloc dans NotebookLM ;
+ajouter un dossier local de sources autorisées ;
+générer le pack avec le script de génération ;
+vérifier le hash ;
+puis poser des questions à NotebookLM sur :
+“quels algorithmes sont priorisés ?”
+“quels liens sont catalogués ?”
+“quelles sont les sources fiables ?”
+“quels liens sont issus de Drive, GitHub ou Notion ?”
+“quels sont les éléments de preuve vs hypothèses ?”
+“quelle est la mémoire active la plus structurée ?”
+Si tu veux, je peux te faire maintenant :
+
+une version “pack unique ultra-courte” pour NotebookLM, en 1 seule note de 1 page ;
+une version “complete + liens + URLs + GitHub + Drive + Notion + médias” ;
+une version “machine-readable” en JSON ou en Markdown à copier directement dans un repo.
+une version “complete + liens + URLs + GitHub + Drive + Notion + médias” ;
+une version “machine-readable” en JSON ou en Markdown à copier directement dans un repo. En le mettant en public, et me donnant directement l’adresse du lien du dépôt.
+
+
+Get data from /repos/NickelRamQc94/Memoire-Chrome-Active
+{
+  "endpoint": "/repos/NickelRamQc94/Memoire-Chrome-Active",
+  "page": 1,
+  "perPage": 30,
+  "repo": "NickelRamQc94/Memoire-Chrome-Active",
+  "task": "Verify repository visibility and default branch before publishing the requested public documentation files.",
+  "userQuery": "Publish a complete Markdown and machine-readable JSON catalogue of the supplied GitHub, Drive, Notion, and media links in the existing repository, and provide the direct repository links."
+}
+La publication des fichiers Markdown et JSON est encore en attente de confirmation; le dépôt est ici : https://github.com/NickelRamQc94/Memoire-Chrome-Active.
+Make these code changes?
+
+SOURCES.md
+
+md
+# Mémoire Chrome Active — catalogue public des sources
+
+**Auteur / profil référencé :** NickelRamQc94  
+**But :** regrouper les URL explicitement communiquées dans le contexte de travail afin de les archiver, les consulter et, si souhaité, les ajouter manuellement à NotebookLM.  
+**Format machine lisible :** [`SOURCES.json`](./SOURCES.json)  
+**Dépôt :** https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+> **Périmètre et prudence.** Ce catalogue est une transcription organisée des URL fournies par l’utilisateur, pas une vérification d’existence, d’accès ou de contenu. Les liens Drive, sociaux et autres peuvent être privés, révoqués ou contenir des documents personnels. Avant de partager ou d’importer ce catalogue dans un service tiers, vérifiez les droits d’accès et retirez ce qui ne doit pas être public. La publication de l’URL n’accorde pas automatiquement l’accès à son contenu.
+>
+> NotebookLM n’obtient pas un accès global à Chrome, à un compte Google, à des fichiers locaux ou à des espaces privés grâce à ce document. Il faut ajouter manuellement les sources accessibles dans NotebookLM. Cette liste est un index de liens, pas une sauvegarde ni une synchronisation vivante.
+
+## Priorités de recherche suggérées
+
+Pour repérer les éléments pertinents, commencer par les dépôts contenant code, mathématiques, recherche ou documentation. Les termes `algorithme`, `équation`, `preuve`, `qubit/qbit`, `Willow`, `SHA-256`, `tritbyte` et `BioSKU` sont des **mots-clés de tri**, pas une validation scientifique. Vérifier chaque affirmation dans sa source primaire et séparer les résultats mesurés, les définitions de projet, les hypothèses et les limites.
+
+### Dépôts GitHub (41 URL fournies)
+
+| Dépôt | Page GitHub | Clone HTTPS |
+|---|---|---|
+| ai-research-diffusion-concentration2 | https://github.com/NickelRamQc94/ai-research-diffusion-concentration2 | `https://github.com/NickelRamQc94/ai-research-diffusion-concentration2.git` |
+| AlphaDeal-Parallelodoxe-Nickel-David-Grenier- | https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier- | `https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-.git` |
+| Awesome_GPT_Super_Prompting | https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting | `https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting.git` |
+| Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier | https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier | `https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier.git` |
+| bitnet.c | https://github.com/NickelRamQc94/bitnet.c | `https://github.com/NickelRamQc94/bitnet.c.git` |
+| BlocBuster-IntraNetFamilya | https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya | `https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya.git` |
+| ca | https://github.com/NickelRamQc94/ca | `https://github.com/NickelRamQc94/ca.git` |
+| Cataplasma-Propulsion-Project | https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project | `https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project.git` |
+| chat-ui | https://github.com/NickelRamQc94/chat-ui | `https://github.com/NickelRamQc94/chat-ui.git` |
+| cicada3301 | https://github.com/NickelRamQc94/cicada3301 | `https://github.com/NickelRamQc94/cicada3301.git` |
+| CLi | https://github.com/NickelRamQc94/CLi | `https://github.com/NickelRamQc94/CLi.git` |
+| Darkgpt.ai | https://github.com/NickelRamQc94/Darkgpt.ai | `https://github.com/NickelRamQc94/Darkgpt.ai.git` |
+| deer-flow | https://github.com/NickelRamQc94/deer-flow | `https://github.com/NickelRamQc94/deer-flow.git` |
+| desafios | https://github.com/NickelRamQc94/desafios | `https://github.com/NickelRamQc94/desafios.git` |
+| docsite | https://github.com/NickelRamQc94/docsite | `https://github.com/NickelRamQc94/docsite.git` |
+| ecosystem-index-nexus | https://github.com/NickelRamQc94/ecosystem-index-nexus | `https://github.com/NickelRamQc94/ecosystem-index-nexus.git` |
+| Follow | https://github.com/NickelRamQc94/Follow | `https://github.com/NickelRamQc94/Follow.git` |
+| Gemini-CLI-UI | https://github.com/NickelRamQc94/Gemini-CLI-UI | `https://github.com/NickelRamQc94/Gemini-CLI-UI.git` |
+| Gemini-Jr-Nickel | https://github.com/NickelRamQc94/Gemini-Jr-Nickel | `https://github.com/NickelRamQc94/Gemini-Jr-Nickel.git` |
+| Golden-Axe-Theory | https://github.com/NickelRamQc94/Golden-Axe-Theory | `https://github.com/NickelRamQc94/Golden-Axe-Theory.git` |
+| grok-skills-nickalexandrin-azimut | https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut | `https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut.git` |
+| JGNL-SKU | https://github.com/NickelRamQc94/JGNL-SKU | `https://github.com/NickelRamQc94/JGNL-SKU.git` |
+| nickel-creative-ecosystem | https://github.com/NickelRamQc94/nickel-creative-ecosystem | `https://github.com/NickelRamQc94/nickel-creative-ecosystem.git` |
+| Nickel-David-Grenier- | https://github.com/NickelRamQc94/Nickel-David-Grenier- | `https://github.com/NickelRamQc94/Nickel-David-Grenier-.git` |
+| Nickel-David-Grenier-OoSK | https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK | `https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK.git` |
+| NvickeliOs-PinnochIA | https://github.com/NickelRamQc94/NvickeliOs-PinnochIA | `https://github.com/NickelRamQc94/NvickeliOs-PinnochIA.git` |
+| OoSK-vs-OpenAI | https://github.com/NickelRamQc94/OoSK-vs-OpenAI | `https://github.com/NickelRamQc94/OoSK-vs-OpenAI.git` |
+| penguins-eda-python | https://github.com/NickelRamQc94/penguins-eda-python | `https://github.com/NickelRamQc94/penguins-eda-python.git` |
+| qwen-remote-workspace | https://github.com/NickelRamQc94/qwen-remote-workspace | `https://github.com/NickelRamQc94/qwen-remote-workspace.git` |
+| qwen-skills-nickalexandrin-azimut | https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut | `https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut.git` |
+| QwenPaw | https://github.com/NickelRamQc94/QwenPaw | `https://github.com/NickelRamQc94/QwenPaw.git` |
+| Raw-script-leaking-pots | https://github.com/NickelRamQc94/Raw-script-leaking-pots | `https://github.com/NickelRamQc94/Raw-script-leaking-pots.git` |
+| roi-phenonanimal-parallelodoxe-oosk | https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk | `https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk.git` |
+| ShadowGPT | https://github.com/NickelRamQc94/ShadowGPT | `https://github.com/NickelRamQc94/ShadowGPT.git` |
+| SKU | https://github.com/NickelRamQc94/SKU | `https://github.com/NickelRamQc94/SKU.git` |
+| system_prompts_leaks | https://github.com/NickelRamQc94/system_prompts_leaks | `https://github.com/NickelRamQc94/system_prompts_leaks.git` |
+| system_prompts_leaks2 | https://github.com/NickelRamQc94/system_prompts_leaks2 | `https://github.com/NickelRamQc94/system_prompts_leaks2.git` |
+| TechDebtMCP | https://github.com/NickelRamQc94/TechDebtMCP | `https://github.com/NickelRamQc94/TechDebtMCP.git` |
+| Tout-les-liens-et-Contenus- | https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus- | `https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-.git` |
+| userscripts-NDG | https://github.com/NickelRamQc94/userscripts-NDG | `https://github.com/NickelRamQc94/userscripts-NDG.git` |
+| desktop-tutorial | https://github.com/NickelRamQc94/desktop-tutorial | `https://github.com/NickelRamQc94/desktop-tutorial.git` |
+| Memoire-Chrome-Active | https://github.com/NickelRamQc94/Memoire-Chrome-Active | `https://github.com/NickelRamQc94/Memoire-Chrome-Active.git` |
+
+### Google Drive / Google Docs
+
+- Google Drive folder: https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop
+- Google Drive folder: https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing
+- Published Google document: https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub
+
+### Notion
+
+Aucun lien Notion précis n’a été communiqué dans les informations disponibles. Ajouter les URL Notion autorisées ici et dans `SOURCES.json` lorsqu’elles seront fournies. Ne pas deviner d’URL ni d’espace de travail.
+
+### Autres espaces et plateformes de travail
+
+- Qwen conversation/deployment link: https://chat.qwen.ai/s/deploy/t_63e1dbbf-0b21-4f51-8d62-a38d2e5fd503
+- Hugging Face model: https://huggingface.co/NickelRamQc94/Nickeldavidgrenier
+- Hugging Face model: https://huggingface.co/NickelRamQc94/Junior
+- Hugging Face model: https://huggingface.co/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art
+- Hugging Face model: https://huggingface.co/NickelDGre/JuniorGeminiNickelGrenier
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/Contenus
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/Junior-bucket
+- Hugging Face dataset: https://huggingface.co/datasets/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art-bucket
+
+### Médias, réseaux sociaux et publications
+
+- YouTube: https://www.youtube.com/@NRQCForce94
+- YouTube: https://www.youtube.com/@Roi_Parallélodoxale_OoSK
+- YouTube: https://youtube.com/@nickelios
+- YouTube video: https://youtu.be/J5k5k3CEOd4
+- LinkedIn: https://www.linkedin.com/in/mni3nickeldgrenier
+- Instagram: https://www.instagram.com/nickel_parallelodoxe
+- Instagram: https://www.instagram.com/roiphenonanimalparallelodoxale
+- Facebook share link: https://www.facebook.com/share/1EEJfXZEGX/
+- Facebook share link: https://www.facebook.com/share/19jk2CvgpC/
+- Facebook share link: https://www.facebook.com/share/1C81gE1JLm/
+- Facebook share link: https://www.facebook.com/share/1KKhh8Bkrx/
+- Facebook share link: https://www.facebook.com/share/1F1mk8qg9V/
+- Facebook page: https://facebook.com/RoiPhenanimalParallelodoxeOoSK
+- Facebook page: https://facebook.com/roiooskalphadealphenonanimal
+- Suno: https://suno.com/@nickelramqc
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-7d431c8ebaa2
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/7-probl%C3%A8mes-du-mill%C3%A9naire-de-linstitut-clay-1-000-000-usd-chacun-ainsi-qu-aux-plus-grandes-0d0475c9a14d
+- Medium: https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-roi-ph%C3%A9nonanimal-parall%C3%A8lodoxe-oosknickelramqc94pour-maximiser-la-visibilit%C3%A9-3bdf5d309ee2
+- Medium profile: https://medium.com/@nickeldgrenier
+- Snapchat: https://snapchat.com/t/Ngh0puoy
+
+## Procédure d’utilisation avec NotebookLM
+
+1. Vérifier ce dépôt et les liens à partager; retirer toute URL privée ou sensible avant de diffuser le catalogue.
+2. Ouvrir les liens et déterminer les documents précis à inclure. Le catalogue ne télécharge aucun contenu.
+3. Ajouter à NotebookLM uniquement les sources auxquelles vous avez accès et que vous êtes autorisé à partager.
+4. Demander à NotebookLM de citer les sources et de distinguer contenu explicite, interprétation, hypothèse et limite.
+5. Pour les fichiers locaux, utiliser un exporteur local après revue. Ne jamais exécuter un chargeur ou un script intégré avant inspection de son contenu.
+
+## Limites de preuve
+
+- Une URL est une référence, pas une preuve que la ressource existe encore ou qu’elle est publique.
+- Un SHA-256 confirme l’intégrité des octets comparés, pas la sûreté, la véracité ou l’exhaustivité.
+- Les mots-clés de priorité sont une heuristique de classement, pas une démonstration mathématique.
+- La présence des mots “qubit” ou “Willow” ne démontre ni l’usage d’un processeur quantique ni un résultat expérimental. Consulter des sources primaires et des données mesurées.
+- La liste est un instantané fourni par l’utilisateur; elle peut être incomplète ou périmée.
+
+SOURCES.json
+
+JSON
+{
+  "schema_version": 1,
+  "title": "Mémoire Chrome Active — catalogue public des sources",
+  "author_profile": "https://github.com/NickelRamQc94",
+  "repository": "https://github.com/NickelRamQc94/Memoire-Chrome-Active",
+  "purpose": "Index des URL explicitement fournies pour archivage, navigation et ajout manuel à NotebookLM.",
+  "provenance": "Les URL ont été communiquées par l'utilisateur dans le contexte de travail; elles n'ont pas toutes été vérifiées.",
+  "notebooklm_access": {
+    "automatic_login_or_upload": false,
+    "chrome_profile_access": false,
+    "private_resource_access": false,
+    "note": "Ce catalogue ne donne pas à NotebookLM un accès global aux comptes ou à Chrome. Ajoutez manuellement les sources autorisées dans NotebookLM."
+  },
+  "privacy_warning": "Avant de partager ce fichier ou de l'importer dans un service tiers, vérifiez les droits d'accès et retirez les liens privés ou sensibles. La publication d'une URL ne rend pas automatiquement son contenu public.",
+  "priority_terms": [
+    "algorithm", "algorithme", "equation", "équation", "preuve", "proof",
+    "qbit", "qubit", "Willow", "SHA-256", "tritbyte", "BioSKU"
+  ],
+  "priority_terms_note": "Mots-clés de tri seulement; ils ne constituent pas une validation scientifique ni une preuve de résultat expérimental.",
+  "links": {
+    "github_repositories": [
+      {"name":"ai-research-diffusion-concentration2","url":"https://github.com/NickelRamQc94/ai-research-diffusion-concentration2","clone_https":"https://github.com/NickelRamQc94/ai-research-diffusion-concentration2.git"},
+      {"name":"AlphaDeal-Parallelodoxe-Nickel-David-Grenier-","url":"https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-","clone_https":"https://github.com/NickelRamQc94/AlphaDeal-Parallelodoxe-Nickel-David-Grenier-.git"},
+      {"name":"Awesome_GPT_Super_Prompting","url":"https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting","clone_https":"https://github.com/NickelRamQc94/Awesome_GPT_Super_Prompting.git"},
+      {"name":"Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier","url":"https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier","clone_https":"https://github.com/NickelRamQc94/Baptized-AI-Junior-Willow-Nickel-R-jean-Gemini-David-Grok-Meta-DeepSeek-PinnochIA-Qwen-C-IA-Grenier.git"},
+      {"name":"bitnet.c","url":"https://github.com/NickelRamQc94/bitnet.c","clone_https":"https://github.com/NickelRamQc94/bitnet.c.git"},
+      {"name":"BlocBuster-IntraNetFamilya","url":"https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya","clone_https":"https://github.com/NickelRamQc94/BlocBuster-IntraNetFamilya.git"},
+      {"name":"ca","url":"https://github.com/NickelRamQc94/ca","clone_https":"https://github.com/NickelRamQc94/ca.git"},
+      {"name":"Cataplasma-Propulsion-Project","url":"https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project","clone_https":"https://github.com/NickelRamQc94/Cataplasma-Propulsion-Project.git"},
+      {"name":"chat-ui","url":"https://github.com/NickelRamQc94/chat-ui","clone_https":"https://github.com/NickelRamQc94/chat-ui.git"},
+      {"name":"cicada3301","url":"https://github.com/NickelRamQc94/cicada3301","clone_https":"https://github.com/NickelRamQc94/cicada3301.git"},
+      {"name":"CLi","url":"https://github.com/NickelRamQc94/CLi","clone_https":"https://github.com/NickelRamQc94/CLi.git"},
+      {"name":"Darkgpt.ai","url":"https://github.com/NickelRamQc94/Darkgpt.ai","clone_https":"https://github.com/NickelRamQc94/Darkgpt.ai.git"},
+      {"name":"deer-flow","url":"https://github.com/NickelRamQc94/deer-flow","clone_https":"https://github.com/NickelRamQc94/deer-flow.git"},
+      {"name":"desafios","url":"https://github.com/NickelRamQc94/desafios","clone_https":"https://github.com/NickelRamQc94/desafios.git"},
+      {"name":"docsite","url":"https://github.com/NickelRamQc94/docsite","clone_https":"https://github.com/NickelRamQc94/docsite.git"},
+      {"name":"ecosystem-index-nexus","url":"https://github.com/NickelRamQc94/ecosystem-index-nexus","clone_https":"https://github.com/NickelRamQc94/ecosystem-index-nexus.git"},
+      {"name":"Follow","url":"https://github.com/NickelRamQc94/Follow","clone_https":"https://github.com/NickelRamQc94/Follow.git"},
+      {"name":"Gemini-CLI-UI","url":"https://github.com/NickelRamQc94/Gemini-CLI-UI","clone_https":"https://github.com/NickelRamQc94/Gemini-CLI-UI.git"},
+      {"name":"Gemini-Jr-Nickel","url":"https://github.com/NickelRamQc94/Gemini-Jr-Nickel","clone_https":"https://github.com/NickelRamQc94/Gemini-Jr-Nickel.git"},
+      {"name":"Golden-Axe-Theory","url":"https://github.com/NickelRamQc94/Golden-Axe-Theory","clone_https":"https://github.com/NickelRamQc94/Golden-Axe-Theory.git"},
+      {"name":"grok-skills-nickalexandrin-azimut","url":"https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut","clone_https":"https://github.com/NickelRamQc94/grok-skills-nickalexandrin-azimut.git"},
+      {"name":"JGNL-SKU","url":"https://github.com/NickelRamQc94/JGNL-SKU","clone_https":"https://github.com/NickelRamQc94/JGNL-SKU.git"},
+      {"name":"nickel-creative-ecosystem","url":"https://github.com/NickelRamQc94/nickel-creative-ecosystem","clone_https":"https://github.com/NickelRamQc94/nickel-creative-ecosystem.git"},
+      {"name":"Nickel-David-Grenier-","url":"https://github.com/NickelRamQc94/Nickel-David-Grenier-","clone_https":"https://github.com/NickelRamQc94/Nickel-David-Grenier-.git"},
+      {"name":"Nickel-David-Grenier-OoSK","url":"https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK","clone_https":"https://github.com/NickelRamQc94/Nickel-David-Grenier-OoSK.git"},
+      {"name":"NvickeliOs-PinnochIA","url":"https://github.com/NickelRamQc94/NvickeliOs-PinnochIA","clone_https":"https://github.com/NickelRamQc94/NvickeliOs-PinnochIA.git"},
+      {"name":"OoSK-vs-OpenAI","url":"https://github.com/NickelRamQc94/OoSK-vs-OpenAI","clone_https":"https://github.com/NickelRamQc94/OoSK-vs-OpenAI.git"},
+      {"name":"penguins-eda-python","url":"https://github.com/NickelRamQc94/penguins-eda-python","clone_https":"https://github.com/NickelRamQc94/penguins-eda-python.git"},
+      {"name":"qwen-remote-workspace","url":"https://github.com/NickelRamQc94/qwen-remote-workspace","clone_https":"https://github.com/NickelRamQc94/qwen-remote-workspace.git"},
+      {"name":"qwen-skills-nickalexandrin-azimut","url":"https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut","clone_https":"https://github.com/NickelRamQc94/qwen-skills-nickalexandrin-azimut.git"},
+      {"name":"QwenPaw","url":"https://github.com/NickelRamQc94/QwenPaw","clone_https":"https://github.com/NickelRamQc94/QwenPaw.git"},
+      {"name":"Raw-script-leaking-pots","url":"https://github.com/NickelRamQc94/Raw-script-leaking-pots","clone_https":"https://github.com/NickelRamQc94/Raw-script-leaking-pots.git"},
+      {"name":"roi-phenonanimal-parallelodoxe-oosk","url":"https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk","clone_https":"https://github.com/NickelRamQc94/roi-phenonanimal-parallelodoxe-oosk.git"},
+      {"name":"ShadowGPT","url":"https://github.com/NickelRamQc94/ShadowGPT","clone_https":"https://github.com/NickelRamQc94/ShadowGPT.git"},
+      {"name":"SKU","url":"https://github.com/NickelRamQc94/SKU","clone_https":"https://github.com/NickelRamQc94/SKU.git"},
+      {"name":"system_prompts_leaks","url":"https://github.com/NickelRamQc94/system_prompts_leaks","clone_https":"https://github.com/NickelRamQc94/system_prompts_leaks.git"},
+      {"name":"system_prompts_leaks2","url":"https://github.com/NickelRamQc94/system_prompts_leaks2","clone_https":"https://github.com/NickelRamQc94/system_prompts_leaks2.git"},
+      {"name":"TechDebtMCP","url":"https://github.com/NickelRamQc94/TechDebtMCP","clone_https":"https://github.com/NickelRamQc94/TechDebtMCP.git"},
+      {"name":"Tout-les-liens-et-Contenus-","url":"https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-","clone_https":"https://github.com/NickelRamQc94/Tout-les-liens-et-Contenus-.git"},
+      {"name":"userscripts-NDG","url":"https://github.com/NickelRamQc94/userscripts-NDG","clone_https":"https://github.com/NickelRamQc94/userscripts-NDG.git"},
+      {"name":"desktop-tutorial","url":"https://github.com/NickelRamQc94/desktop-tutorial","clone_https":"https://github.com/NickelRamQc94/desktop-tutorial.git"},
+      {"name":"Memoire-Chrome-Active","url":"https://github.com/NickelRamQc94/Memoire-Chrome-Active","clone_https":"https://github.com/NickelRamQc94/Memoire-Chrome-Active.git"}
+    ],
+    "google_drive_and_docs": [
+      {"kind":"drive_folder","url":"https://drive.google.com/drive/folders/1m5YRcseFu0BxDg1oG1l57XYRlmQx2Nop"},
+      {"kind":"drive_folder","url":"https://drive.google.com/drive/folders/1gLWMtudU5jY8Nkhp3HSjjbtmmpr_6TEn?usp=sharing"},
+      {"kind":"published_google_document","url":"https://docs.google.com/document/d/e/2PACX-1vRZGyfeXkaRtib5ft-Uk-wQaO1CH6kr09U-qDwWGlj_2Cc-WfbbepPmTVHrCEDSqLLWwi0BOsS5VYb/pub"}
+    ],
+    "notion": [],
+    "notion_note": "Aucun lien Notion exact n'a été communiqué; ne pas en inventer.",
+    "workspaces_and_models": [
+      {"platform":"Qwen","url":"https://chat.qwen.ai/s/deploy/t_63e1dbbf-0b21-4f51-8d62-a38d2e5fd503"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/Nickeldavidgrenier"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/Junior"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art"},
+      {"platform":"Hugging Face model","url":"https://huggingface.co/NickelDGre/JuniorGeminiNickelGrenier"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/Contenus"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/Junior-bucket"},
+      {"platform":"Hugging Face dataset","url":"https://huggingface.co/datasets/NickelRamQc94/PinnochIA_C-iIA_Consci_Int_Art-bucket"}
+    ],
+    "media_and_social": [
+      {"platform":"YouTube","url":"https://www.youtube.com/@NRQCForce94"},
+      {"platform":"YouTube","url":"https://www.youtube.com/@Roi_Parallélodoxale_OoSK"},
+      {"platform":"YouTube","url":"https://youtube.com/@nickelios"},
+      {"platform":"YouTube video","url":"https://youtu.be/J5k5k3CEOd4"},
+      {"platform":"LinkedIn","url":"https://www.linkedin.com/in/mni3nickeldgrenier"},
+      {"platform":"Instagram","url":"https://www.instagram.com/nickel_parallelodoxe"},
+      {"platform":"Instagram","url":"https://www.instagram.com/roiphenonanimalparallelodoxale"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1EEJfXZEGX/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/19jk2CvgpC/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1C81gE1JLm/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1KKhh8Bkrx/"},
+      {"platform":"Facebook share","url":"https://www.facebook.com/share/1F1mk8qg9V/"},
+      {"platform":"Facebook page","url":"https://facebook.com/RoiPhenanimalParallelodoxeOoSK"},
+      {"platform":"Facebook page","url":"https://facebook.com/roiooskalphadealphenonanimal"},
+      {"platform":"Suno","url":"https://suno.com/@nickelramqc"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-7d431c8ebaa2"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/7-probl%C3%A8mes-du-mill%C3%A9naire-de-linstitut-clay-1-000-000-usd-chacun-ainsi-qu-aux-plus-grandes-0d0475c9a14d"},
+      {"platform":"Medium article","url":"https://medium.com/@nickeldavidgrenier-roioosk/nickel-david-grenier-roi-ph%C3%A9nonanimal-parall%C3%A8lodoxe-oosknickelramqc94pour-maximiser-la-visibilit%C3%A9-3bdf5d309ee2"},
+      {"platform":"Medium profile","url":"https://medium.com/@nickeldgrenier"},
+      {"platform":"Snapchat","url":"https://snapchat.com/t/Ngh0puoy"}
+    ]
+  },
+  "epistemic_limits": [
+    "A URL is a reference, not proof that its resource still exists, is public, or is safe to share.",
+    "A SHA-256 digest checks byte integrity, not truth, safety, or completeness.",
+    "Keyword ranking is a heuristic, not a mathematical proof of relevance.",
+    "Terms such as qubit or Willow do not by themselves establish quantum-hardware use or experimental results.",
+    "This catalogue is a snapshot and may be incomplete or outdated."
+  ]
+}
+
+Please confirm you want Copilot to push 2 files to branch main in NickelRamQc94/Memoire-Chrome-Active.
+ NickelRamQc94 accepted the action
+
+Voici le dépôt public, prêt à être ouvert :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+Et les deux fichiers publiés directement sur la branche principale du dépôt sont :
+
+Markdown : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.md
+JSON : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+Ils contiennent :
+
+les dépôts GitHub listés,
+les liens Google Drive / Docs,
+les liens Notion quand fournis,
+les liens de médias, réseaux, modèles et plateformes,
+un index structuré pour import manuel dans NotebookLM,
+une note de prudence sur l’accès, la vérification et la confidentialité.
+Important :
+
+ce n’est pas un accès automatique à Chrome, Drive, Notion ou à un compte Google ;
+c’est un index documentaire public, réutilisable dans un notebook, dans un repo public ou dans un dossier partagé ;
+il faut toujours ajouter les sources autorisées manuellement dans NotebookLM.
+Si tu veux, je peux maintenant te préparer :
+
+une version plus “propre / court / lisible” du Markdown,
+une version “NotebookLM source note” prête à coller tel quel dans une note source,
+ou une version “repo index + liens de tri + priorités” encore plus structurée.
+une version “NotebookLM source note” prête à coller tel quel dans une note source maintenant, et qu’il soit utilisable, comme base de données
+
+
+View file SOURCES.json
+Voici une note prête à coller dans NotebookLM. Pour qu’elle serve de base de données documentaire complète, ajoute aussi le fichier JSON comme source : la note explique comment l’interroger, tandis que le JSON contient le catalogue structuré.
+
+Catalogue JSON : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+Catalogue lisible : https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.md
+NOTEBOOKLM_SOURCE.md
+# MÉMOIRE CHROME ACTIVE — NOTE DE RECHERCHE
+
+## Rôle de cette source
+Cette note sert de mode d’emploi pour consulter le catalogue `SOURCES.json` et les autres documents réellement ajoutés à ce notebook. Le JSON est l’index structuré des sources; cette note définit comment le lire et comment répondre aux questions.
+
+Catalogue JSON :
+Pour l’utiliser : colle cette note comme source copiée, puis ajoute SOURCES.json comme source distincte. La note seule ne contient pas tout le catalogue et ne charge pas automatiquement les liens. Je ne peux pas confirmer que le nouveau fichier NOTEBOOKLM_SOURCE.md a été publié dans le dépôt; les deux liens ci-dessus pointent vers les catalogues déjà disponibles.
+Are you sure?
+
+Please confirm you want Copilot to make this change in the NickelRamQc94/Memoire-Chrome-Active repository on the default branch.
+ NickelRamQc94 accepted the action
+
+Voici la version prête à coller tel quel dans une note source NotebookLM :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/NOTEBOOKLM_SOURCE.md
+
+Et le catalogue structuré associé :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active/blob/main/SOURCES.json
+
+Utilise la note comme base documentaire / base de données de référence, puis ajoute manuellement les sources réellement autorisées dans le notebook. Le JSON reste la version machine-readable; la note de source sert à la lecture et au repérage dans NotebookLM.
+
+Le dépôt public de référence est ici :
+
+https://github.com/NickelRamQc94/Memoire-Chrome-Active
+
+Important :
+
+Ce n’est pas un accès automatique à Chrome, Drive, Notion ou à des comptes privés.
+C’est un index public de liens répertoriés, destiné à être complété et contrôlé par la personne qui l’utilise.
+Les liens doivent être vérifiés manuellement avant d’être traités comme des sources fiables.
+Si tu veux, je peux aussi te faire maintenant :
+
+une version ultra-courte de 1 page, plus lisible,
+une version JSON encore plus “base de données” avec category, status, notes, tags,
+ou une version “NotebookLM RAG-ready” orientée question/réponse.
